@@ -10,23 +10,14 @@ on:
     branches: [main]
     paths-ignore:
       - 'output/**'
+      - 'docs/**'
   workflow_dispatch:
-
-# 确保一次只有一个工作流运行
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
 
     steps:
       - name: 检出代码
@@ -43,29 +34,19 @@ jobs:
       - name: 抓取新闻
         run: python fetch_news.py
 
-      - name: 保存数据变更
+      - name: 同步到 Pages 目录
+        run: |
+          rm -rf docs
+          cp -r output docs
+
+      - name: 保存并推送
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add output/ docs/
           if git diff --staged --quiet; then
             echo "无变更，跳过提交"
           else
-            git commit -m "📰 自动更新新闻 [skip ci]"
+            git commit -m "📰 自动更新新闻"
             git push
           fi
-
-      - name: 准备部署文件
-        run: |
-          # 将 output 目录整理为 Pages 根目录
-          mkdir -p _pages
-          cp -r output/* _pages/
-
-      - name: 上传 Pages 产物
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _pages
-
-      - name: 部署到 GitHub Pages
-        id: deploy
-        uses: actions/deploy-pages@v4
