@@ -12,11 +12,21 @@ on:
       - 'output/**'
   workflow_dispatch:
 
+# 确保一次只有一个工作流运行
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
 
     steps:
       - name: 检出代码
@@ -44,3 +54,18 @@ jobs:
             git commit -m "📰 自动更新新闻 [skip ci]"
             git push
           fi
+
+      - name: 准备部署文件
+        run: |
+          # 将 output 目录整理为 Pages 根目录
+          mkdir -p _pages
+          cp -r output/* _pages/
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _pages
+
+      - name: 部署到 GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
