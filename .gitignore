@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Superpowers (brainstorming artifacts)
+.superpowers/
+
+# Claude Code
+.claude/
+
+# Windows-specific (不需要在云端)
+*.bat
+*.vbs
+*.ps1
+*.lnk
+*.ico
+*.png
+
+# 桌面快捷方式和本地配置文件
+fix_task.py

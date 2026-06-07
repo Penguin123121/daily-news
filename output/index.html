@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日新闻摘要</title>
+<style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+        font-family: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+        background: #faf6ef;
+        color: #333;
+        line-height: 1.6;
+    }
+    /* 宣纸纹理背景 */
+    body::before {
+        content: '';
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background:
+            radial-gradient(ellipse at 20% 50%, rgba(200,160,120,0.06) 0%, transparent 50%),
+            radial-gradient(ellipse at 80% 20%, rgba(180,140,100,0.04) 0%, transparent 50%);
+        pointer-events: none;
+        z-index: 0;
+    }
+    .container { width: 95%; max-width: none; margin: 0 auto; padding: 20px 20px 40px; position: relative; z-index: 1; }
+
+    /* ===== 匾额式 Header ===== */
+    .header {
+        text-align: center;
+        padding: 32px 20px 24px;
+        background: linear-gradient(175deg, #6b1000 0%, #8b0000 40%, #a01010 100%);
+        color: #f5e6c8;
+        border-radius: 10px;
+        margin-bottom: 24px;
+        box-shadow: 0 4px 24px rgba(107, 16, 0, 0.35);
+        position: relative;
+        border: 1px solid rgba(180, 130, 80, 0.3);
+    }
+    .header::before {
+        content: '';
+        position: absolute;
+        top: 6px; left: 10px; right: 10px;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, rgba(245,230,200,0.5), transparent);
+    }
+    .header::after {
+        content: '';
+        position: absolute;
+        bottom: 6px; left: 10px; right: 10px;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, rgba(245,230,200,0.3), transparent);
+    }
+    .header .brand-line {
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+        font-size: 10px;
+        letter-spacing: 4px;
+        opacity: 0.45;
+        text-transform: uppercase;
+        margin-bottom: 6px;
+    }
+    .header h1 {
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+        font-size: 28px;
+        font-weight: 700;
+        letter-spacing: 8px;
+        margin-bottom: 6px;
+    }
+    .header .divider {
+        width: 48px;
+        height: 1px;
+        background: #d4a574;
+        margin: 10px auto;
+        opacity: 0.6;
+    }
+    .header .date-line {
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+        font-size: 11px;
+        opacity: 0.5;
+        letter-spacing: 2px;
+    }
+    .header .gen-time {
+        font-size: 10px;
+        opacity: 0.35;
+        margin-top: 8px;
+    }
+
+    /* ===== 日期 Tab 栏 ===== */
+    .tabs {
+        display: flex;
+        gap: 6px;
+        margin-bottom: 24px;
+    }
+    .tab {
+        flex: 1;
+        text-align: center;
+        padding: 12px 6px 10px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        color: #b8a088;
+        background: #fdf8f3;
+        border: 1px solid #e8d5c4;
+        border-radius: 8px;
+        outline: none;
+        transition: all 0.25s;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    }
+    .tab:hover {
+        color: #8b4513;
+        background: #fef5ec;
+        border-color: #c0392b;
+    }
+    .tab.active {
+        color: #f5e6c8;
+        background: linear-gradient(175deg, #8b0000, #a01010);
+        border-color: #6b1000;
+        font-weight: 700;
+        box-shadow: 0 2px 12px rgba(139, 0, 0, 0.25);
+    }
+    .tab .tab-weekday { font-size: 16px; }
+    .tab .tab-date { font-size: 10px; display: block; margin-top: 3px; opacity: 0.7; }
+
+    /* ===== 面板 ===== */
+    .day-panel { display: none; }
+    .day-panel.active {
+        display: flex;
+        gap: 20px;
+        align-items: flex-start;
+    }
+    /* 时段分区列 */
+    .period-col {
+        flex: 1;
+        min-width: 0;
+    }
+    .period-divider {
+        width: 1px;
+        background: linear-gradient(180deg, transparent, #d4b896 15%, #d4b896 85%, transparent);
+        flex-shrink: 0;
+        align-self: stretch;
+    }
+
+    /* ===== 时段板块标题 ===== */
+    .period-section { margin-bottom: 24px; }
+    .period-header {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 0 0 12px 0;
+        margin-bottom: 16px;
+        border-bottom: 1px solid #e8d5c4;
+    }
+    .period-stamp {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 48px;
+        height: 48px;
+        border-radius: 4px;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+        font-size: 18px;
+        font-weight: 700;
+        color: #f5e6c8;
+        flex-shrink: 0;
+        letter-spacing: 2px;
+        writing-mode: vertical-rl;
+    }
+    .period-stamp.morning { background: #c0392b; box-shadow: 0 2px 8px rgba(192,57,43,0.3); }
+    .period-stamp.evening { background: #2c3e50; box-shadow: 0 2px 8px rgba(44,62,80,0.3); }
+    .period-stamp.legacy { background: #8b0000; box-shadow: 0 2px 8px rgba(139,0,0,0.3); }
+    .period-info { flex: 1; }
+    .period-info .period-label {
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+        font-size: 18px;
+        font-weight: 700;
+        color: #4a3020;
+    }
+    .period-info .period-meta {
+        font-size: 11px;
+        color: #b8a088;
+        margin-top: 2px;
+    }
+
+    /* ===== 新闻卡片 ===== */
+    .news-item {
+        display: flex;
+        gap: 14px;
+        background: #fff;
+        border: 1px solid #e8d5c4;
+        border-radius: 8px;
+        padding: 18px;
+        margin-bottom: 12px;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .news-item:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(139, 69, 19, 0.1);
+        border-color: #c0392b;
+    }
+    /* 序号印章 */
+    .news-rank {
+        flex-shrink: 0;
+        width: 34px;
+        height: 34px;
+        color: #f5e6c8;
+        font-size: 16px;
+        font-weight: 700;
+        border-radius: 3px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    }
+    .news-rank.morning { background: #c0392b; }
+    .news-rank.evening { background: #2c3e50; }
+    .news-rank.legacy { background: #8b0000; }
+    .news-body { flex: 1; min-width: 0; }
+    .news-title {
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+        font-size: 17px;
+        font-weight: 700;
+        margin-bottom: 4px;
+        line-height: 1.5;
+    }
+    .news-title a { color: #2a1a10; text-decoration: none; }
+    .news-title a:hover { color: #c0392b; }
+    .news-meta {
+        font-size: 12px;
+        color: #b8a088;
+        margin-bottom: 8px;
+    }
+    .news-img { margin-bottom: 10px; }
+    .news-img img {
+        width: 100%;
+        max-height: 280px;
+        object-fit: cover;
+        border-radius: 4px;
+        border: 1px solid #f0e6d3;
+    }
+    .news-summary {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 8px;
+        text-align: justify;
+        line-height: 1.7;
+    }
+    .news-link {
+        display: inline-block;
+        font-size: 13px;
+        color: #c0392b;
+        text-decoration: none;
+        font-weight: 500;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    }
+    .news-link:hover { text-decoration: underline; color: #8b0000; }
+
+    /* ===== 占位 ===== */
+    .period-placeholder {
+        text-align: center;
+        padding: 28px 20px;
+        color: #c8b898;
+        font-size: 14px;
+        background: #fdf8f3;
+        border: 1px dashed #e8d5c4;
+        border-radius: 8px;
+        margin-bottom: 12px;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    }
+    .no-data {
+        text-align: center;
+        padding: 40px 20px;
+        color: #c8b898;
+        font-size: 14px;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    }
+    .empty {
+        text-align: center;
+        padding: 50px 20px;
+        color: #b8a088;
+        font-size: 15px;
+        font-family: Georgia, "Noto Serif SC", "Source Han Serif SC", serif;
+    }
+
+    /* ===== Footer ===== */
+    .footer {
+        text-align: center;
+        padding: 24px 20px;
+        color: #c8b898;
+        font-size: 12px;
+        margin-top: 16px;
+        border-top: 1px solid #e8d5c4;
+    }
+    .footer a { color: #8b4513; text-decoration: none; }
+    .footer a:hover { color: #c0392b; }
+
+    /* ===== 移动端 ===== */
+    @media (max-width: 600px) {
+        .container { padding: 12px 10px 30px; }
+        .header { padding: 24px 14px 18px; }
+        .header h1 { font-size: 22px; letter-spacing: 4px; }
+        /* 两列回退上下排列 */
+        .day-panel.active {
+            flex-direction: column;
+            gap: 0;
+        }
+        .period-divider {
+            display: none;
+        }
+        .news-item { padding: 14px; gap: 10px; }
+        .news-title { font-size: 15px; }
+        .news-summary { font-size: 13px; }
+        .news-img img { max-height: 200px; }
+        .period-stamp { width: 38px; height: 38px; font-size: 15px; }
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <!-- 匾额式 Header -->
+    <div class="header">
+        <div class="brand-line">— 央视新闻 —</div>
+        <h1>每日新闻</h1>
+        <div class="divider"></div>
+        <div class="date-line">二〇二六年六月七日 · 周日</div>
+        <div class="gen-time">生成于 2026-06-07 20:39</div>
+    </div>
+
+    <div class="tabs" id="tabBar"></div>
+
+    <div id="panelContainer"></div>
+
+    <div class="footer">
+        <p>数据来源：<a href="https://news.cctv.com/" target="_blank">央视新闻 (news.cctv.com)</a></p>
+        <p>自动生成 · 保留最近3天 · 每日朝暮更新</p>
+    </div>
+</div>
+
+<script>
+var daysData = [{"date": "2026-06-07", "weekday": "周日", "morning": {"news": [{"title": "从“制”到“智” 智能工厂装备向智能体演进", "url": "https://news.cctv.com/2026/06/07/ARTIfpUiCh3YPf2t8yt6nHHu260607.shtml", "time": "2026-06-07 07:47:00", "summary": "今年《政府工作报告》明确提出要“拓展智能制造，新建设一批智能工厂和智慧供应链”。如今智能工厂正推动着新一代智能制造深化发展，制造装备正向智能体演进。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/07/2026060707461064305.jpg"}, {"title": "2026年全国统一高考今天开考", "url": "https://news.cctv.com/2026/06/07/ARTIygxUVwoDNniRcM1IFp5P260607.shtml", "time": "2026-06-07 07:43:25", "summary": "2026年全国统一高考今天开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/07/2026060707424120619.jpg"}, {"title": "【“三北”攻坚进行时】植绿治沙 沙区锁边工程正在进行", "url": "https://news.cctv.com/2026/06/07/ARTInFGr8fn5wuRdsPnzbznE260607.shtml", "time": "2026-06-07 07:37:11", "summary": "眼下，我国“三北”工程建设正持续推进。位于内蒙古巴彦淖尔 乌拉特后旗 的巴音温都尔沙区，曾经大风肆虐、流沙步步紧逼黄河“几字弯”。当地持续攻坚，区域沙化土地治理率大幅提升。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/07/2026060707362158739.jpg"}, {"title": "城市更新 桥下“新”风景", "url": "https://news.cctv.com/2026/06/07/ARTIxtOYr3GUg2MNZHmgxsbU260607.shtml", "time": "2026-06-07 07:09:54", "summary": "现在不少城市打开空间、盘活资源，把闲置的桥下空间改成电影院、运动场，成为大家休闲娱乐、遛娃锻炼的好去处，将闲置的空间转变为城市的“金角银边”。", "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/07/2026060707094366212.jpg"}, {"title": "向沙要绿 久久为功——新疆防沙治沙一线观察", "url": "https://news.cctv.com/2026/06/07/ARTIskMCrKlONrFIXMmy01Wr260607.shtml", "time": "2026-06-07 07:04:45", "summary": "炎炎夏日，在我国最大的沙漠——塔克拉玛干沙漠边缘，“三北”工程攻坚战正在进行。近日，记者在国家林草局“三北”工程攻坚战新疆记者行活动上看到，从和田到且末，从兵团团场到治沙试验基地，一线治沙人正用汗水与智慧编织一条“绿色围脖”。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/07/2026060707042119621.jpg"}], "generated": "2026-06-07 08:00"}, "evening": {"news": [{"title": "苏州：桃花坞“荷花市集”开市", "url": "https://photo.cctv.com/2026/06/07/PHOAoqErm9JmrcoMsaHZVbPu260607.shtml", "time": "2026-06-07 15:13:42", "summary": "6月7日，江苏苏州，姑苏区桃花坞历史文化片区唐寅故里举办的“荷花市集”开市亮相。", "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/07/2026060715125659101.jpg"}, {"title": "安徽庐江：马鞭草花海绽放 吸引游客打卡", "url": "https://photo.cctv.com/2026/06/07/PHOAGXHQV9M8v8XR2uiYMj54260607.shtml", "time": "2026-06-07 15:12:14", "summary": "6月7日，安徽省合肥市庐江县冶父山镇，上万株马鞭草次第绽放，进入最佳观赏期。紫色的马鞭草花海吸引了合肥、铜陵等多地游客前来打卡。视觉中国", "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/07/2026060715112975520.jpg"}, {"title": "浙江长兴：非遗花龙船下水迎端午", "url": "https://photo.cctv.com/2026/06/07/PHOAI50ftX8tehYvrDwXHGLn260607.shtml", "time": "2026-06-07 15:07:55", "summary": "6月7日，浙江长兴，非物质文化遗产花龙船下水迎接端午节，吸引村民观看。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/07/2026060715052890452.jpg"}, {"title": "2026全国高考首日：家长花式送考为考生加油鼓劲", "url": "https://photo.cctv.com/2026/06/07/PHOA1wJ2GRYZOevIXRlgzRic260607.shtml", "time": "2026-06-07 11:44:20", "summary": "2026年6月7日，2026全国高考首日，家长花式送考为考生加油鼓劲。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/07/2026060711431982401.jpg"}, {"title": "新疆阿勒泰：乌伦古湖雅丹地貌瑰丽壮阔", "url": "https://photo.cctv.com/2026/06/07/PHOA1sVTY5RhkrN4DYopptC7260607.shtml", "time": "2026-06-07 15:10:41", "summary": "近日，新疆阿勒泰地区，航拍初夏的乌伦古湖雅丹地貌。", "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/07/2026060715081036351.jpg"}], "generated": "2026-06-07 20:00"}}, {"date": "2026-06-06", "weekday": "周六", "morning": {"news": [{"title": "国家安全部：保密责任 离职不“离线”", "url": "https://news.cctv.com/2026/06/06/ARTI2ASrgXv6AmGxGrw7jtc9260606.shtml", "time": "2026-06-06 07:50:53", "summary": "有案例显示，个别涉密人员在换工作时，因忽视保密细节，导致失泄密事件的发生。国家安全机关昨天（5日）发布安全提示，涉密人员离职后，掌握的国家秘密与工作秘密不会随劳动关系的解除而失效，仍要坚守保密底线，履行应尽的保密义务。", "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/06/2026060607503964630.jpg"}, {"title": "时政Vlog丨记录中老友好合作时刻", "url": "https://news.cctv.com/2026/06/06/ARTIGWqag9uTnNcOd9nD57r8260606.shtml", "time": "2026-06-06 07:48:16", "summary": "6月5日下午，中共中央总书记、国家主席习近平在人民大会堂同来华进行国事访问的老挝人民革命党中央总书记、国家主席通伦举行会谈。", "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/06/2026060607444063166.jpg"}, {"title": "老年游不再“踩坑” 新国标为银发游立规矩", "url": "https://news.cctv.com/2026/06/06/ARTIvyibWylnDEm8g81wz9yl260606.shtml", "time": "2026-06-06 07:46:18", "summary": "我国人口老龄化进程持续加快，老年群体规模不断扩大，老年旅游已成为老年人重要的文化休闲与康养方式，《旅行社老年旅游服务要求》国家标准就是要满足老年群体对旅游服务的安全性、舒适性、便利性的需求。", "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/06/2026060607445843126.jpg"}, {"title": "【奔跑的三夏】与时间赛跑 保颗粒归仓", "url": "https://news.cctv.com/2026/06/06/ARTI0qCT4aloo4OrbJWHVVpQ260606.shtml", "time": "2026-06-06 07:23:28", "summary": "今年“三夏”期间，高温、降雨天气叠加，推动河南多地小麦成熟期大幅提前，大面积小麦扎堆成熟，农机需求短时激增。农机如何快速到位、收割如何高效推进？来看总台记者在麦收一线的采访。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/06/2026060607223875285.jpg"}, {"title": "今年职工基本医保个人账户实现跨省共济", "url": "https://news.cctv.com/2026/06/06/ARTIBwHnBv4e0x5Vl3b7iQpa260606.shtml", "time": "2026-06-06 07:09:59", "summary": "国家医保局、财政部5日印发通知，明确职工基本医保个人账户跨省共济规程。据了解，今年内，职工医保个人账户跨省共济将在全国所有省份全面开通。那么，跨省共济适用哪些亲属？该如何建立共济关系呢？", "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/06/2026060607083744477.jpg"}], "generated": "2026-06-06 08:00"}, "evening": {"news": [{"title": "吴哥千年瑰宝亮相山西博物院", "url": "https://photo.cctv.com/2026/06/06/PHOAlezgHDIrdxUDjCB9Qgty260606.shtml", "time": "2026-06-06 10:37:27", "summary": "6月5日，“吴哥·古代高棉的千年瑰宝”展在山西博物院开展。此次展览展出柬埔寨国家博物馆馆藏文物130余件（组），展览将持续至10月7日。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/06/2026060610163685908.jpg"}, {"title": "全国爱眼日", "url": "https://photo.cctv.com/2026/06/06/PHOASe6FMQqueY0QdaYiVUwh260606.shtml", "time": "2026-06-06 15:54:07", "summary": "6月6日是第31个全国爱眼日，主题为“人人享有眼健康”。", "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/06/2026060615355028857.jpg"}, {"title": "哈尔滨：晚霞浸染松花江", "url": "https://photo.cctv.com/2026/06/06/PHOA1ESXhLzR2cqtDqrjw91S260606.shtml", "time": "2026-06-06 15:53:59", "summary": "6月5日，黑龙江省哈尔滨市，芒种时节，暮色漫过松花江湿地，泼洒出一片片灿烂晚霞，把江天染成熔金般的暖橙色。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/06/2026060615460442670.jpg"}, {"title": "贵州六盘水：安盘高速公路六车河特大桥云雾缭绕建设正酣", "url": "https://photo.cctv.com/2026/06/06/PHOA1P1EMpmKYEz8M53Ex4Kg260606.shtml", "time": "2026-06-06 15:53:51", "summary": "6月6日，贵州省六盘水市水城区花戛乡六车河大峡谷，建设中的安盘高速重点控制性工程六车河特大桥云雾缭绕，群山、峡谷与建设中的大桥交相辉映美不胜收。", "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/06/2026060615492234127.jpg"}, {"title": "重庆大足石刻吸引游客", "url": "https://photo.cctv.com/2026/06/06/PHOAjmQxb7hioyQc3RLvyquX260606.shtml", "time": "2026-06-06 10:37:45", "summary": "作为世界文化遗产，大足石刻以其古朴庄重、气韵生动的摩崖造像，吸引各地游客前来参观游览，在文旅交融中实现历史文化活态传承。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/06/2026060609391913711.jpg"}], "generated": "2026-06-06 20:00"}}, {"date": "2026-06-05", "weekday": "周五", "morning": {"news": [{"title": "聊天机器人正悄然左右人类选择", "url": "https://news.cctv.com/2026/06/05/ARTIegAAb3aqsFLV2Pum5lWn260605.shtml", "time": "2026-06-05 07:32:29", "summary": "如今，像ChatGPT这类聊天机器人，能依据你生活中最隐秘的细节，呈上量身定做、直击内心的信息。这种“润物细无声”的手法，或许正悄然左右着你的选择，乃至重塑你的世界观。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/05/2026060507291921279.jpg"}, {"title": "谋篇布局点亮“人造太阳”", "url": "https://news.cctv.com/2026/06/05/ARTIFmaHsQJbAZzEM2uRXjpo260605.shtml", "time": "2026-06-05 07:32:19", "summary": "“十五五”规划纲要明确将发展核聚变能列为新的经济增长点，提出要突破氚燃料制备循环、材料辐照考验、高性能激光、超导磁体制造等核聚变关键技术，开展聚变氘氚燃烧等离子体运行实验和多技术路径可行性验证，推进核聚变研发工程化进程，为“十五五”时期我国核聚变技术发展提出了明确方向，核聚变将加速从科学实验全面转向工程化、产业化。", "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/05/2026060507305547858.jpg"}, {"title": "7月1日起施行 这个规定将为出海企业提供有力法治保障", "url": "https://news.cctv.com/2026/06/05/ARTIFxGG2zSTqVCwi88GjGv3260605.shtml", "time": "2026-06-05 07:31:59", "summary": "《国务院关于对外投资的规定》将于7月1日起施行，商务部新闻发言人6月4日表示，《规定》的出台在我国对外投资发展历程上具有里程碑意义。", "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/05/2026060507300154228.jpg"}, {"title": "2025年全国消协组织为消费者挽回经济损失9.3亿元", "url": "https://news.cctv.com/2026/06/05/ARTIGysEDrwGEOI0iahSDYNf260605.shtml", "time": "2026-06-05 07:27:46", "summary": "2025年，全国消协组织共受理消费者投诉201.6万件，为消费者挽回经济损失9.3亿元。报告指出，新型消费领域的权益保障规制亟待健全。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/05/2026060507273481777.jpg"}, {"title": "人工智能技术广泛落地 助力航运更智能更高效", "url": "https://news.cctv.com/2026/06/05/ARTIM4LzFO9mfac0ltUP7XU2260605.shtml", "time": "2026-06-05 07:25:01", "summary": "2025年，我国海港城市港口经济增加值达7万亿元，占到相关城市经济总量的13.6%。特别是随着人工智能技术广泛落地，传统航运业正在向更智能、更高效的方向升级。", "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/05/2026060507235216461.jpg"}], "generated": "2026-06-05 08:00"}, "evening": {"news": [{"title": "倡导绿色生活 建设美丽中国", "url": "https://photo.cctv.com/2026/06/05/PHOARVa62HIOvEuPU42wIRbM260605.shtml", "time": "2026-06-05 16:09:27", "summary": "6月5日是世界环境日。连日来，各地举行形式多样的活动，倡导践行绿色生活，建设美丽中国。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/05/2026060514520594559.jpg"}, {"title": "珠峰脚下迎来望果节", "url": "https://photo.cctv.com/2026/06/05/PHOAvq6g73wYWldT2hhJPfuc260605.shtml", "time": "2026-06-05 16:08:29", "summary": "6月4日，坐落于珠峰脚下的西藏日喀则市定日县扎西宗镇巴松村，迎来一年一度的传统望果节。望果节是西藏传统的丰收节。节日当天，村民齐聚一堂，以赛马、传统歌舞等特色活动欢度佳节。", "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/05/2026060515173766807.jpg"}, {"title": "麋鹿“组团”现身洞庭", "url": "https://photo.cctv.com/2026/06/05/PHOAnbIf9JwgqhvUB7bVFmQQ260605.shtml", "time": "2026-06-05 10:03:35", "summary": "随着洞庭湖水位上涨，原本栖息于低洼地带的国家一级保护野生动物麋鹿，逐步迁徙至湖洲高处。近日，超过170只麋鹿“组团”出现在湖南南洞庭湖省级自然保护区沅江漉湖黄花滩区域，成为近年来该区域记录到的规模最大的麋鹿种群之一。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/05/2026060509542387100.jpg"}, {"title": "广西柳州：从容迎高考", "url": "https://photo.cctv.com/2026/06/05/PHOAM8ATvHizNIpRSGr5Ctd1260605.shtml", "time": "2026-06-05 10:03:43", "summary": "目前，广西柳州市高三学生在忙碌而充实的学习生活中，不断调整状态，迎接即将到来的高考。", "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/05/2026060509494575934.jpg"}, {"title": "芒种时节农事忙", "url": "https://photo.cctv.com/2026/06/05/PHOAQBwH9mqgpZcmiDNhXrIG260605.shtml", "time": "2026-06-05 16:08:38", "summary": "芒种时节，农民们抢抓农时进行夏收、夏种、夏管工作。", "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/05/2026060515042633035.jpg"}], "generated": "2026-06-05 20:00"}}];
+var tabDates = {"2026-06-07": "六月七日", "2026-06-06": "六月六日", "2026-06-05": "六月五日"};
+var CN_NUMS = ["", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
+var PERIOD_CONFIG = {
+    morning: { label: "朝闻", stampColor: "#c0392b", rankColor: "#c0392b" },
+    evening: { label: "暮览", stampColor: "#2c3e50", rankColor: "#2c3e50" },
+    legacy: { label: "新闻", stampColor: "#8b0000", rankColor: "#8b0000" }
+};
+
+function buildTab(d, index, active) {
+    var cls = "tab" + (active ? " active" : "");
+    var cnDate = tabDates[d.date] || d.date;
+    return '<button class="' + cls + '" onclick="switchDay(' + index + ')">'
+        + '<span class="tab-weekday">' + d.weekday + '</span>'
+        + '<span class="tab-date">' + cnDate + '</span></button>';
+}
+
+function buildNewsItem(n, i, period) {
+    var rankNum = CN_NUMS[i + 1] || (i + 1);
+    var imgTag = n.image
+        ? '<div class="news-img"><img src="' + n.image + '" alt="" loading="lazy" onerror="this.style.display=\'none\'"></div>'
+        : '';
+    return '<div class="news-item">'
+        + '<div class="news-rank ' + period + '">' + rankNum + '</div>'
+        + '<div class="news-body">'
+        + '<h2 class="news-title"><a href="' + n.url + '" target="_blank">' + n.title + '</a></h2>'
+        + '<div class="news-meta">' + n.time + '</div>'
+        + imgTag
+        + '<p class="news-summary">' + n.summary + '</p>'
+        + '<a class="news-link" href="' + n.url + '" target="_blank">查看原文 →</a>'
+        + '</div></div>';
+}
+
+function buildPeriodSection(periodData, period) {
+    var cfg = PERIOD_CONFIG[period] || PERIOD_CONFIG.legacy;
+    var html = '<div class="period-section">';
+    if (periodData && periodData.news && periodData.news.length > 0) {
+        var genText = periodData.generated ? '更新于 ' + periodData.generated : '';
+        html += '<div class="period-header">'
+            + '<div class="period-stamp ' + period + '">' + cfg.label + '</div>'
+            + '<div class="period-info">'
+            + '<div class="period-label">' + cfg.label + '新闻（' + periodData.news.length + '条）</div>'
+            + '<div class="period-meta">' + genText + '</div>'
+            + '</div></div>';
+        periodData.news.forEach(function(n, i) {
+            html += buildNewsItem(n, i, period);
+        });
+    } else {
+        html += '<div class="period-header">'
+            + '<div class="period-stamp ' + period + '">' + cfg.label + '</div>'
+            + '<div class="period-info">'
+            + '<div class="period-label">' + cfg.label + '新闻</div>'
+            + '<div class="period-meta">尚未更新</div>'
+            + '</div></div>';
+        html += '<div class="period-placeholder">' + cfg.label + '新闻尚未更新，请稍候...</div>';
+    }
+    html += '</div>';
+    return html;
+}
+
+function buildPanel(d, active) {
+    var cls = "day-panel" + (active ? " active" : "");
+    var html = '<div class="' + cls + '" id="panel' + d.date + '">';
+
+    if (d.morning || d.evening) {
+        html += '<div class="period-col">' + buildPeriodSection(d.morning, "morning") + '</div>';
+        html += '<div class="period-divider"></div>';
+        html += '<div class="period-col">' + buildPeriodSection(d.evening, "evening") + '</div>';
+    } else if (d.legacy && d.legacy.news && d.legacy.news.length > 0) {
+        html += '<div class="period-col">' + buildPeriodSection(d.legacy, "legacy") + '</div>';
+    } else {
+        html += '<div class="no-data">该日暂无新闻数据</div>';
+    }
+    html += '</div>';
+    return html;
+}
+
+function switchDay(index) {
+    var tabs = document.querySelectorAll(".tab");
+    var panels = document.querySelectorAll(".day-panel");
+    tabs.forEach(function(t, i) { t.className = (i === index) ? "tab active" : "tab"; });
+    panels.forEach(function(p, i) { p.className = (i === index) ? "day-panel active" : "day-panel"; });
+}
+
+function render() {
+    var tabBar = document.getElementById("tabBar");
+    var panelContainer = document.getElementById("panelContainer");
+    if (daysData.length === 0) {
+        tabBar.innerHTML = "";
+        panelContainer.innerHTML = '<div class="empty">暂无新闻数据，请运行脚本获取</div>';
+        return;
+    }
+    var tabHtml = "";
+    var panelHtml = "";
+    daysData.forEach(function(d, i) {
+        tabHtml += buildTab(d, i, i === 0);
+        panelHtml += buildPanel(d, i === 0);
+    });
+    tabBar.innerHTML = tabHtml;
+    panelContainer.innerHTML = panelHtml;
+}
+
+render();
+</script>
+</body>
+</html>
