@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-08",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "时政微周刊丨总书记的一周（6月1日—6月7日）",
+        "url": "https://news.cctv.com/2026/06/08/ARTIeHA5E0LCYGYvWI63fpob260608.shtml",
+        "time": "2026-06-08 07:58:31",
+        "summary": "时政微周刊丨总书记的一周（6月1日—6月7日）。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/08/2026060807455810272.jpg"
+      },
+      {
+        "title": "塔里木油田今年绿电发电量已突破11亿度",
+        "url": "https://news.cctv.com/2026/06/08/ARTIjDTRZxcza7bJmvdCMz3c260608.shtml",
+        "time": "2026-06-08 07:52:28",
+        "summary": "今年以来，塔里木油田利用环塔克拉玛干沙漠的太阳能资源，已累计发出绿电超过11亿度。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/08/2026060807515335005.jpg"
+      },
+      {
+        "title": "北京启用新式电动自行车号牌 原有旧式牌照仍有效",
+        "url": "https://news.cctv.com/2026/06/08/ARTIsgEeUsDl3sqO7Qg332iY260608.shtml",
+        "time": "2026-06-08 07:50:02",
+        "summary": "从8日开始，北京正式启用新式电动自行车号牌，原有旧式牌照仍合法有效，可正常上路。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/08/2026060807490884975.jpg"
+      },
+      {
+        "title": "“海洋地质六号”完成第16航次科考任务 取得多项成果",
+        "url": "https://news.cctv.com/2026/06/08/ARTIZPXmVA4uE8AsYKlh8elR260608.shtml",
+        "time": "2026-06-08 07:41:03",
+        "summary": "记者8日从自然资源部中国地质调查局获悉，“海洋地质六号”船已于近日完成深海地质调查第16航次科考任务，在深海地质环境调查、海洋探测关键技术装备研发应用等方面取得多项成果。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/08/2026060807402124774.jpg"
+      },
+      {
+        "title": "嫌犯劣迹斑斑未被制裁，司法体系漏洞引发愤慨，马克龙下令彻查女童遇害案",
+        "url": "https://news.cctv.com/2026/06/08/ARTI2BEnIX5anGjNbyqho67j260608.shtml",
+        "time": "2026-06-08 07:34:29",
+        "summary": "6月以来，一起儿童遇害案让法国舆论对司法系统的批评再次集中爆发。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/08/2026060807340040867.jpg"
+      }
+    ],
+    "generated": "2026-06-08 08:00"
+  }
+}
