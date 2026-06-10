@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-06-09 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "美丽中国丨衡水湖光涵绿意 鹭鸟翩飞戏清涟",
+        "url": "https://photo.cctv.com/2026/06/09/PHOAqsUzAPaC5PNZ7GGoN7Pt260609.shtml",
+        "time": "2026-06-09 10:34:00",
+        "summary": "每到繁殖季，数万只鸟儿齐聚湖畔，灵动身影穿梭于碧水绿树间，尽显湿地生态之美。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/09/2026060916335176753.jpg"
+      },
+      {
+        "title": "探访平陆运河野生动物“生命天桥”",
+        "url": "https://photo.cctv.com/2026/06/09/PHOA2I05bWS6A3xSYoanbasD260609.shtml",
+        "time": "2026-06-09 10:34:32",
+        "summary": "平陆运河专用动物通道桥位于广西钦州市灵山县旧州镇，是一座特殊的生态廊桥，横跨航道，不通行车马，只为野生动物生存、迁徙提供生命通道。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/09/2026060909142887417.jpg"
+      },
+      {
+        "title": "广西融水：狮王争霸赛精彩上演",
+        "url": "https://photo.cctv.com/2026/06/09/PHOA7OEjMRTUNrNUJZSUuKkx260609.shtml",
+        "time": "2026-06-09 10:08:53",
+        "summary": "6月8日，广西融水苗族自治县和睦镇举办首届狮王争霸赛，来自广西、贵州的8支舞狮队轮番上阵，精彩对决，尽显狮王风采，吸引众多市民和游客驻足观赏。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/09/2026060909585612705.jpg"
+      },
+      {
+        "title": "西藏山南：羊卓雍错碧水蓝天牧草丰茂",
+        "url": "https://photo.cctv.com/2026/06/09/PHOAkBR4OrfJVZa6fGo77h9f260609.shtml",
+        "time": "2026-06-09 16:05:20",
+        "summary": "蓝天白云下牛群在湖边悠闲吃草，呈现一幅夏日草原风光。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/09/2026060916040028414.jpg"
+      },
+      {
+        "title": "杭州：曲院风荷开启“仙境模式”",
+        "url": "https://photo.cctv.com/2026/06/09/PHOAlnBi0PmKpgkoygvhwYSZ260609.shtml",
+        "time": "2026-06-09 16:04:14",
+        "summary": "荷塘水雾弥漫，亭台楼阁与荷叶在薄雾中若隐若现，吸引游客驻足观赏。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/09/2026060916003564192.jpg"
+      }
+    ],
+    "generated": "2026-06-09 20:00"
   }
 }

@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-06-08 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "福建南平：蓝喉蜂虎枝头“排排坐”",
+        "url": "https://photo.cctv.com/2026/06/08/PHOALJt2MHSHFYcvfTkJ17gB260608.shtml",
+        "time": "2026-06-08 11:24:12",
+        "summary": "近日，福建南平延平区炉下镇斜溪村，有着“中国最美小鸟”美誉的蓝喉蜂虎在枝头嬉戏。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/08/2026060811232885258.jpg"
+      },
+      {
+        "title": "新疆福海：夏季牲畜转场声势浩大",
+        "url": "https://photo.cctv.com/2026/06/08/PHOAyb4zdeNWw6NmX2aDDQU9260608.shtml",
+        "time": "2026-06-08 15:09:28",
+        "summary": "近日，新疆阿勒泰地区福海县牧民的转场牲畜正行进在前往夏季牧场的牧道上。福海县是新疆阿勒泰地区的牧业大县，也是阿勒泰牧民转场迁徙路程最远、牧道最美、场面最震撼的县。每年转场都会吸引全国各地摄影爱好者和游客前来拍摄观赏。视觉中国",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/08/2026060815073863562.jpg"
+      },
+      {
+        "title": "广西全州：龙舟竞渡迎端午",
+        "url": "https://photo.cctv.com/2026/06/08/PHOAuJegTGH56gkE3EhNlTnH260608.shtml",
+        "time": "2026-06-08 15:05:39",
+        "summary": "6月7日，广西桂林市全州县全州镇邓家埠村，村民们在灌江河上举行一年一度的传统龙舟赛事，以激情的竞渡迎接端午节的到来。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/08/2026060815044732175.jpg"
+      },
+      {
+        "title": "重庆动物园大熊猫吃笋撸串憨态可掬",
+        "url": "https://photo.cctv.com/2026/06/08/PHOApfR4IMWxoOMYfbuR83bZ260608.shtml",
+        "time": "2026-06-08 11:22:44",
+        "summary": "6月7日，重庆动物园，“渝爱”“莽小五”等大熊猫吃竹笋、撸串，快乐玩耍，憨态可掬。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/08/2026060811214659691.jpg"
+      },
+      {
+        "title": "甘肃通渭：大片芍药花开正艳",
+        "url": "https://photo.cctv.com/2026/06/08/PHOAi9OhOj1RNLyrgYddGXFy260608.shtml",
+        "time": "2026-06-08 11:21:11",
+        "summary": "近日，甘肃省通渭县什川镇盘龙村农民大田种植的芍药花开正艳，蔚然成景。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/08/2026060811193638379.jpg"
+      }
+    ],
+    "generated": "2026-06-08 20:00"
   }
 }

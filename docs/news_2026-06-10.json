@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-06-10 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "美丽中国丨大美沱沱河",
+        "url": "https://photo.cctv.com/2026/06/10/PHOA4HpZKdi5JVyVN3prteyG260610.shtml",
+        "time": "2026-06-10 10:33:12",
+        "summary": "位于青藏高原腹地的长江正源沱沱河水系纵横，以辫状河道为主。从空中俯瞰，景色蔚为壮观。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/10/2026061010322784247.jpg"
+      },
+      {
+        "title": "走进萨拉乌苏遗址",
+        "url": "https://photo.cctv.com/2026/06/10/PHOAaMJzxgiEJwZj59iBeTJe260610.shtml",
+        "time": "2026-06-10 17:26:26",
+        "summary": "该遗址是我国华北地区黄河流域旧石器时代中期距今10万至5万年的人类文化遗址，揭秘了东亚古人类的演化线索。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/10/2026061017261020535.jpg"
+      },
+      {
+        "title": "山东日照：渔民滩涂“推筏扒蛤”",
+        "url": "https://photo.cctv.com/2026/06/10/PHOAVtSwn9NI4GwQFZlaRY49260610.shtml",
+        "time": "2026-06-10 17:33:46",
+        "summary": "6月10日，山东日照，渔民们趁着落潮，在浅海滩涂里采收蛤蜊。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/10/2026061017332033981.jpg"
+      },
+      {
+        "title": "初夏颐和园景如画",
+        "url": "https://photo.cctv.com/2026/06/10/PHOAQ6sKhyQrFwAZ7fzXCdYD260610.shtml",
+        "time": "2026-06-10 10:38:33",
+        "summary": "6月9日，北京天气晴好，初夏的颐和园在蓝天白云映衬下美丽如画，引人入胜。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/10/2026061010492257438.jpg"
+      },
+      {
+        "title": "江苏泗洪：秸秆离田 综合利用促增收",
+        "url": "https://photo.cctv.com/2026/06/10/PHOAKFyeBrDEVoEDuC5UOhPS260610.shtml",
+        "time": "2026-06-10 10:26:22",
+        "summary": "秸秆实现资源化利用，既美化田园环境、守护生态，又变废为宝，切实帮助农户增加收入。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/10/2026061009524957951.jpg"
+      }
+    ],
+    "generated": "2026-06-10 20:00"
   }
 }
