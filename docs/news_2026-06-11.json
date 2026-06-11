@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-11",
+  "weekday": "周四",
+  "morning": {
+    "news": [
+      {
+        "title": "中国汽车软件技术跻身全球核心标准",
+        "url": "https://news.cctv.com/2026/06/11/ARTI8pGpZGy8nb0kM2b0iIQb260611.shtml",
+        "time": "2026-06-11 07:56:41",
+        "summary": "国际汽车开放系统架构组织10日在上海宣布，中国自主研发的智能驾驶操作系统，正式成为全球智能驾驶系统公共代码库的核心基线，这也是中国汽车基础软件技术首次进入全球行业标准。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/11/2026061107554268525.jpg"
+      },
+      {
+        "title": "新闻1+1丨面对“新”诈骗，如何构建反诈“心”防线？",
+        "url": "https://news.cctv.com/2026/06/11/ARTIPC3c6SVZ6S9QP2zUabes260611.shtml",
+        "time": "2026-06-11 07:32:41",
+        "summary": "近期有多人遭遇到同一事情，没有验证码，没有短信提醒，账户里的钱就被转出去了。警方调查后证实，诈骗组织制造虚假地推活动，用免费礼品吸引易上当人群下载伪造的App，在其手机中植入远程控制软件，利用木马程序实施盗刷。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/11/2026061107320574419.jpg"
+      },
+      {
+        "title": "美中央司令部称袭击伊朗境内多个目标",
+        "url": "https://news.cctv.com/2026/06/11/ARTIWaaF3RzPcrfaGNLW5QFL260611.shtml",
+        "time": "2026-06-11 07:29:34",
+        "summary": "当地时间6月10日，美国中央司令部发布消息称，美国中央司令部部队于美东时间10日17时15分开始对伊朗境内的多个目标实施所谓“自卫打击”。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/11/2026061107291944377.jpg"
+      },
+      {
+        "title": "搭建生态廊道 野生动物种群恢复加速",
+        "url": "https://news.cctv.com/2026/06/11/ARTIhmOEO6wQJy5hzOLKb0e1260611.shtml",
+        "time": "2026-06-11 07:20:34",
+        "summary": "随着我国生态保护修复工作持续深入，多地通过搭建生态廊道，为野生动物构建起迁徙、交流的生命通道，促进了野生动物的种群恢复。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/11/2026061107195855842.jpg"
+      },
+      {
+        "title": "西藏墨脱发现昆虫新物种",
+        "url": "https://news.cctv.com/2026/06/11/ARTIHhpY90znxgQaKGumDSy7260611.shtml",
+        "time": "2026-06-11 07:14:49",
+        "summary": "记者6月10日从西藏自治区高原生物研究所了解到，我国科研人员发现一个摇蚊科昆虫新物种，并将其正式命名为墨脱环足摇蚊，相关研究成果于10日在国际动物分类学期刊《动物分类杂志》上正式发表。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/11/2026061107142050706.jpg"
+      }
+    ],
+    "generated": "2026-06-11 08:00"
+  }
+}
