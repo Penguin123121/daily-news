@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-16",
+  "weekday": "周二",
+  "morning": {
+    "news": [
+      {
+        "title": "感知中国活力 多领域迎来关键节点",
+        "url": "https://news.cctv.com/2026/06/16/ARTINR6NGWa5rMQYvQ851g3n260615.shtml",
+        "time": "2026-06-16 01:11:10",
+        "summary": "6月15日，我国多领域迎来突破性关键节点，彰显蓬勃发展的中国活力。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/15/2026061522483315108.jpg"
+      },
+      {
+        "title": "网红“养生烟”被曝虚假宣传 湖北襄阳通报",
+        "url": "https://news.cctv.com/2026/06/15/ARTI0UwSdFg1n5LUPbeBvUb0260615.shtml",
+        "time": "2026-06-15 22:26:08",
+        "summary": "近日，媒体报道反映樊城区一电商销售的“李时珍1518蕲艾香灸”产品涉嫌存在虚假宣传“养生润肺”功效等问题。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/06/15/2026061522242965048.jpg"
+      },
+      {
+        "title": "生态环境部：6月下半月全国空气质量以优良为主",
+        "url": "https://news.cctv.com/2026/06/15/ARTIhZA753nF63vaaubEb0Mj260615.shtml",
+        "time": "2026-06-15 21:32:20",
+        "summary": "2026年6月15日，中国环境监测总站联合中央气象台、大气污染防治攻关联合中心，东北、华南、西南、西北、长三角区域空气质量预测预报中心和北京市生态环境监测中心，开展6月下半月（6月16日—30日）全国空气质量预报会商。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/15/2026061521301065981.jpg"
+      },
+      {
+        "title": "俄一架战略轰炸机在伊尔库茨克地区坠毁",
+        "url": "https://news.cctv.com/2026/06/15/ARTIyBXuD4AmZBV2NlbAeX4h260615.shtml",
+        "time": "2026-06-15 21:30:10",
+        "summary": "据俄罗斯方面15日消息，俄国防部说一架战略轰炸机在俄伊尔库茨克地区坠毁。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/15/2026061521295978177.jpg"
+      },
+      {
+        "title": "特朗普称多艘装载石油船只正通过霍尔木兹海峡",
+        "url": "https://news.cctv.com/2026/06/15/ARTIkWrpY7m3kHEJBntu2yMB260615.shtml",
+        "time": "2026-06-15 21:28:29",
+        "summary": "当地时间6月15日，美国总统特朗普在社交媒体平台“真实社交”发文称，已有船只开始通过霍尔木兹海峡运输原油并驶离相关水域。特朗普在帖文中表示，多艘装载石油的船只正在通过霍尔木兹海峡，并沿所谓“南部航道”航行。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/06/15/2026061521274860015.jpg"
+      }
+    ],
+    "generated": "2026-06-16 08:00"
+  }
+}
