@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-23",
+  "weekday": "周二",
+  "morning": {
+    "news": [
+      {
+        "title": "国家出台多项举措推动利用外资固稳促优",
+        "url": "https://news.cctv.com/2026/06/23/ARTI3F3VjlNGYdDk9HTkYlIQ260622.shtml",
+        "time": "2026-06-23 00:08:33",
+        "summary": "国务院新闻办公室6月22日举行新闻发布会，商务部、国家发展改革委、财政部有关负责人介绍，将通过多项举措推动我国利用外资稳存量、扩增量、提质量。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/22/2026062222444842369.jpg"
+      },
+      {
+        "title": "国家防总：主雨带仍在贵州广西等地 西南江南等有大暴雨",
+        "url": "https://news.cctv.com/2026/06/22/ARTIqPcu83mFUmM9cptjtdow260622.shtml",
+        "time": "2026-06-22 23:08:24",
+        "summary": "6月22日，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、住房城乡建设部、交通运输部等多部门滚动会商，研判近期降雨趋势，督促指导重点省份做好江河洪水防御和强降雨防范应对工作。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/22/2026062223080279722.jpg"
+      },
+      {
+        "title": "从老字号到文旅新地标 解锁工业旅游新玩法",
+        "url": "https://news.cctv.com/2026/06/22/ARTIIybWDWBJRw0hEgeBYe8u260622.shtml",
+        "time": "2026-06-22 23:02:05",
+        "summary": "这些年，当地的纺织产业一步步蜕变成长：车间越来越智能，国产智能设备全面普及，比起早年进口设备，性价比、适配性更强，生产效率大幅提升。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/06/22/2026062222595845320.jpg"
+      },
+      {
+        "title": "总台周看点丨链接世界",
+        "url": "https://www.cctv.com/2026/06/22/ARTI38nLqwyOEAK8VNHOBfFs260622.shtml",
+        "time": "2026-06-22 22:57:12",
+        "summary": "第四届中国国际供应链促进博览会6月22日开幕。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/06/22/2026062223031725158.jpg"
+      },
+      {
+        "title": "辽宁舰编队多次处置日方滋扰挑衅 专家详解细节",
+        "url": "https://military.cctv.com/2026/06/22/ARTIBhnMC7qCwaZtJdQWiK3u260622.shtml",
+        "time": "2026-06-22 22:41:44",
+        "summary": "辽宁舰编队在训练期间，日方舰艇、飞机多次近距离跟踪监视、滋扰挑衅。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/06/22/2026062222410789933.jpg"
+      }
+    ],
+    "generated": "2026-06-23 08:00"
+  }
+}
