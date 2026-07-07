@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-07",
+  "weekday": "周二",
+  "morning": {
+    "news": [
+      {
+        "title": "俄副外长：俄方将与美国在乌克兰问题上保持接触",
+        "url": "https://news.cctv.com/2026/07/07/ARTIr3o0juo7655klRTz1wPa260707.shtml",
+        "time": "2026-07-07 07:01:07",
+        "summary": "俄罗斯副外长里亚布科夫6日表示，尽管美国越来越背离其同俄方在乌克兰问题上达成的协议，但俄方不会中断同美方在该问题上的接触。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/07/07/2026070707004211246.jpg"
+      },
+      {
+        "title": "国际油价6日微跌",
+        "url": "https://news.cctv.com/2026/07/07/ARTIfNSgZ4lLMfBf14Pl2TvK260707.shtml",
+        "time": "2026-07-07 07:00:03",
+        "summary": "国际油价6日微跌。截至当天收盘，纽约商品交易所8月交货的轻质原油期货价格下跌14美分，收于每桶68.55美元，跌幅为0.2%；9月交货的伦敦布伦特原油期货价格下跌13美分，收于每桶71.99美元，跌幅为0.18%。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/07/2026070706594751761.jpg"
+      },
+      {
+        "title": "古巴再次全国大停电",
+        "url": "https://news.cctv.com/2026/07/07/ARTIMU4phPbqHRE5OngF34cS260707.shtml",
+        "time": "2026-07-07 06:58:04",
+        "summary": "古巴电力联盟6日在社交媒体发布公告说，古巴电力系统发生全面断电。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/07/07/2026070706575382366.jpg"
+      },
+      {
+        "title": "委内瑞拉地震死亡人数升至3535人",
+        "url": "https://news.cctv.com/2026/07/07/ARTI3i306Jfn8w2n1sV0lvuI260707.shtml",
+        "time": "2026-07-07 06:55:20",
+        "summary": "当地时间6日，委内瑞拉全国代表大会主席罗德里格斯通过社交媒体通报，该国日前发生的强震造成的死亡人数上升至3535人，受伤人数16740人，强震后发生余震1048次。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/07/07/2026070706551296572.jpeg"
+      },
+      {
+        "title": "法国称已撤回所有驻布基纳法索外交人员",
+        "url": "https://news.cctv.com/2026/07/07/ARTIX69ZQ5H0bZ2EvUtSybpX260707.shtml",
+        "time": "2026-07-07 06:46:07",
+        "summary": "总台记者当地时间6日获悉，法国外交部当天表示，该国所有驻布基纳法索的外交官均已回国，布基纳法索驻法外交人员也须于当天晚间前离开法国。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/07/2026070706454595429.jpg"
+      }
+    ],
+    "generated": "2026-07-07 08:00"
+  }
+}
