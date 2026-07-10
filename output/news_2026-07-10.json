@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-10",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "高产竞赛开启农学生“职业生涯第一课”",
+        "url": "https://news.cctv.com/2026/07/10/ARTIPGhXcP2BKhv27CjI2UdF260710.shtml",
+        "time": "2026-07-10 07:56:59",
+        "summary": "高产竞赛中，秦晓梁教授（中）为学生指导水肥一体化技术应用。西北农林科技大学供图　　在西北农林科技大学北校区，有一片被师生称作“高产练兵场”的土地——农学院农作物标本区。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/10/2026071007564133859.jpg"
+      },
+      {
+        "title": "当AI成为“科研搭子” 谁来守住学术训练的底线",
+        "url": "https://news.cctv.com/2026/07/10/ARTIVFWLz2My5P2AdoJlM3qx260710.shtml",
+        "time": "2026-07-10 07:56:07",
+        "summary": "从帮助检索文献、梳理研究思路、生成代码、润色论文，再到完成复杂计算、文本写作等任务，近两年来，人工智能技术正以前所未有的速度进入高校科研场景。在蔡芬看来，AI已深度嵌入大学生科研训练，但在不同培养阶段、不同学科背景下，学生对AI的诉求并不相同。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/10/2026071007555572666.jpg"
+      },
+      {
+        "title": "新版国家基本药物目录发布 9月1日起实施",
+        "url": "https://news.cctv.com/2026/07/10/ARTIUQEw753aAORnXasDCVyX260710.shtml",
+        "time": "2026-07-10 07:41:29",
+        "summary": "9日，卫生健康委、国家中医药局、国家疾控局正式发布了《国家基本药物目录（2026版）》，将从9月1日起正式实施。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/07/10/2026071007412044861.jpg"
+      },
+      {
+        "title": "第9号台风“巴威”逐步逼近：“巴威”现在到哪了？未来路径如何发展？",
+        "url": "https://news.cctv.com/2026/07/10/ARTIwhtt4UotHz8Aa2KAfeZw260710.shtml",
+        "time": "2026-07-10 07:33:25",
+        "summary": "台风“巴威”有多强？未来路径如何发展？还有可能有哪些变化？来听中国气象局天气分析师 孙倩倩的分析",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/07/10/2026071007331220529.jpg"
+      },
+      {
+        "title": "上半年新能源汽车产销量双超700万辆",
+        "url": "https://news.cctv.com/2026/07/10/ARTIwDlPqAUaJm9mX7MkELkc260710.shtml",
+        "time": "2026-07-10 07:29:42",
+        "summary": "中国汽车工业协会9日公布的最新数据显示，今年1至6月份，我国新能源汽车市场产销量、出口量均呈现稳定增长态势。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/07/10/2026071007292861125.jpg"
+      }
+    ],
+    "generated": "2026-07-10 08:00"
+  }
+}
