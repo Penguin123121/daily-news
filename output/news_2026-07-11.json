@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-11",
+  "weekday": "周六",
+  "morning": {
+    "news": [
+      {
+        "title": "中国超算重回世界第一，意味着什么",
+        "url": "https://news.cctv.com/2026/07/11/ARTIDy0vQzHH0UDe82VvcTLf260711.shtml",
+        "time": "2026-07-11 07:57:01",
+        "summary": "6月23日，德国汉堡国际超算大会发布全球超算TOP500榜单，位于广东深圳光明科学城、由我国自主研制的全国产超级计算机“灵晟”成功登顶全球榜首。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/11/2026071107564669282.jpg"
+      },
+      {
+        "title": "中消协提示健身消费莫盲目大额充值",
+        "url": "https://news.cctv.com/2026/07/11/ARTIDJ4zVPa3jAocYDGHXEqN260711.shtml",
+        "time": "2026-07-11 07:53:18",
+        "summary": "为保障广大健身服务消费者预付式消费安全，中国消费者协会日前发布消费提示，提醒消费者不受“充值越多，折扣力度越大”的营销手段诱惑盲目大额充值。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/07/11/2026071107525924604.jpg"
+      },
+      {
+        "title": "陪诊行业如何告别野蛮生长？",
+        "url": "https://news.cctv.com/2026/07/11/ARTIlDqGiwps8GM7OOzv1sGd260711.shtml",
+        "time": "2026-07-11 07:48:30",
+        "summary": "近年来，陪诊从以往的小众便民跑腿服务，逐步升级为老年人、异地就医人群、都市职场人群等就医时的刚需，与此同时，如何规范陪诊服务，更好满足大众需求，也成为亟待解决的现实问题。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/07/11/2026071107480081936.jpg"
+      },
+      {
+        "title": "持续完善相关政策措施 全民医保护航人口高质量发展",
+        "url": "https://news.cctv.com/2026/07/11/ARTIvQ0NN1mFhqt5JmRm2BHr260711.shtml",
+        "time": "2026-07-11 07:42:56",
+        "summary": "7月11日是世界人口日。人口问题关系国家发展和民生福祉。近年来，国家医保局围绕生育支持、养老照护、医疗救助、异地就医等民生关切，持续完善相关政策措施，助力人口高质量发展。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/07/11/2026071107423531227.jpg"
+      },
+      {
+        "title": "2026年度电影票房已超180亿元",
+        "url": "https://news.cctv.com/2026/07/11/ARTIZaJMByNcYP0RHsqfs0S2260711.shtml",
+        "time": "2026-07-11 07:30:00",
+        "summary": "截至7月10日，2026年度电影总票房已超180亿元，其中暑期档电影总票房超23亿元。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/07/11/2026071107294845414.jpg"
+      }
+    ],
+    "generated": "2026-07-11 08:00"
+  }
+}
