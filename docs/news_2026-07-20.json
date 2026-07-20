@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-20",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "时政微周刊丨总书记的一周（7月13日—7月19日）",
+        "url": "https://news.cctv.com/2026/07/20/ARTIyv8n1QJZ8B9fA1R6sExi260720.shtml",
+        "time": "2026-07-20 07:42:53",
+        "summary": "时政微周刊丨总书记的一周（7月13日—7月19日）。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/07/20/2026072007420516966.jpg"
+      },
+      {
+        "title": "时政微观察丨山海携手启新篇",
+        "url": "https://news.cctv.com/2026/07/20/ARTIrCqR5NmBtUFxnyIcs96i260720.shtml",
+        "time": "2026-07-20 07:33:28",
+        "summary": "贺兰山下，距离银川40公里的闽宁镇，民生和美、产业兴旺。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/20/2026072007313366702.png"
+      },
+      {
+        "title": "20分钟直达码头、零关税加持！中国东盟贸易更火了",
+        "url": "https://jingji.cctv.com/2026/07/20/ARTIHcBHjTC2deEgQGb6CzMQ260720.shtml",
+        "time": "2026-07-20 06:45:32",
+        "summary": "北方外贸枢纽青岛港，是这份亮眼数据最鲜活的缩影：内陆工厂货物搭乘班列直达码头出海，东南亚榴莲、水产搭乘班轮快速入境。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/20/2026072006433986547.jpg"
+      },
+      {
+        "title": "大港看外贸｜进口稳 出口旺 上半年唐山港外贸量增质升",
+        "url": "https://news.cctv.com/2026/07/20/ARTINvdpCosCrIMZzv3wBN7o260719.shtml",
+        "time": "2026-07-20 06:36:51",
+        "summary": "高水平双向开放的蓬勃活力，在一座大港的一进一出之间充分显现，来看记者在唐山港的探访。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/07/19/2026071923480929133.jpg"
+      },
+      {
+        "title": "新闻1+1丨算力成WAIC核心关键词 AI普惠再提速",
+        "url": "https://news.cctv.com/2026/07/20/ARTIto5P7NM4gthqdKpiUKxV260720.shtml",
+        "time": "2026-07-20 06:24:44",
+        "summary": "当下算力发展不再依赖单颗芯片，而是将数千颗芯片整合为一体，这就是超节点的技术架构。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/07/20/2026072006223027646.jpg"
+      }
+    ],
+    "generated": "2026-07-20 08:00"
+  }
+}
