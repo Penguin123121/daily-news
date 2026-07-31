@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-31",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "特朗普称已就哈马斯“全面解除武装”达成协议",
+        "url": "https://news.cctv.com/2026/07/31/ARTInlnES15qqQU4FFbsuKJs260731.shtml",
+        "time": "2026-07-31 06:48:34",
+        "summary": "美国总统特朗普30日在社交媒体发文称，美国发起的所谓“和平委员会”已就巴勒斯坦伊斯兰抵抗运动（哈马斯）和加沙地带其他武装组织“全面解除武装”达成一项历史性协议。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/31/2026073106573942491.jpg"
+      },
+      {
+        "title": "欧足联宣布抵制所有国际足联赛事",
+        "url": "https://news.cctv.com/2026/07/31/ARTIhl7FRHFl7uffMzQ6LrjU260731.shtml",
+        "time": "2026-07-31 06:43:44",
+        "summary": "当地时间7月30日，欧洲足球管理机构欧足联及其55个成员国投票决定“抵制所有国际足联赛事”。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/07/31/2026073106431992815.jpg"
+      },
+      {
+        "title": "领导干部既要谋事又要干事（思想纵横）",
+        "url": "https://news.cctv.com/2026/07/31/ARTIP6FR7Y2MohaT4HGlnEwp260731.shtml",
+        "time": "2026-07-31 06:27:54",
+        "summary": "干部干部，干字当头。怎么干，是考验干部能否树立和践行正确政绩观的试金石。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/31/2026073106271553066.jpg"
+      },
+      {
+        "title": "涉及生态环境、退役军人等 8月起一批新规将实施",
+        "url": "https://news.cctv.com/2026/07/31/ARTIPpTiYKSy06H57Wgfd7qp260731.shtml",
+        "time": "2026-07-31 06:25:13",
+        "summary": "8月起，一批新规将开始施行，哪些与你我生活相关，一起了解。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/07/31/2026073106242796570.jpg"
+      },
+      {
+        "title": "美中央司令部：已改变24艘商船的航行路线",
+        "url": "https://news.cctv.com/2026/07/31/ARTI3q9FzuY8rWMbLT0kdjlr260731.shtml",
+        "time": "2026-07-31 06:13:17",
+        "summary": "当地时间7月30日，美国中央司令部表示，美军继续执行对伊朗的海上封锁。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/07/31/2026073106124534481.jpg"
+      }
+    ],
+    "generated": "2026-07-31 08:00"
+  }
+}
