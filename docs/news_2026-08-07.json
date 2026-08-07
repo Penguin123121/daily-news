@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-07",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "台风黄色预警 “白海豚”或将登陆浙江至福建北部沿海地区",
+        "url": "https://news.cctv.com/2026/08/07/ARTIPruWxmjGJy82RYpUXEXT260807.shtml",
+        "time": "2026-08-07 07:21:53",
+        "summary": "8月7日6时，中央气象台继续发布台风黄色预警。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/07/2026080707211911632.jpg"
+      },
+      {
+        "title": "硕博钻进玉米地 论文种在泥土里",
+        "url": "https://people.cctv.com/2026/08/07/ARTIc6u1neWJ8Ht1RJIIFK1y260807.shtml",
+        "time": "2026-08-07 06:50:21",
+        "summary": "博士后、博士生、硕士生、本科生三伏天钻玉米地，把论文种进泥土里。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/07/2026080706164819763.jpg"
+      },
+      {
+        "title": "中国－巴西电影展颁奖典礼在里约举行",
+        "url": "https://news.cctv.com/2026/08/07/ARTIZolc8uWeZBojifvxBRcV260806.shtml",
+        "time": "2026-08-07 06:45:29",
+        "summary": "第五届中国－巴西电影展颁奖典礼5日在巴西里约热内卢举行，来自中巴两国的14部影片获影展组委会颁发的蓝鹦鹉奖。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/08/06/2026080623050411769.jpg"
+      },
+      {
+        "title": "从“看风景”到“读文化”——透过新疆看“访古游”升温",
+        "url": "https://news.cctv.com/2026/08/07/ARTIU6Pd9ciovCd5A0JRd7rk260807.shtml",
+        "time": "2026-08-07 06:33:21",
+        "summary": "旅行的意义，正在悄悄发生变化——奔赴古迹遗址、探访历史现场，成为年轻人旅行的新选择。这股访古热潮在许多地方兴起，而在有着丰富、多元历史文化遗迹的新疆，更是持续升温。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/07/2026080706311599596.jpg"
+      },
+      {
+        "title": "特朗普称霍尔木兹海峡协议尚未达成 正参与相关谈判",
+        "url": "https://news.cctv.com/2026/08/07/ARTIDWa7q9YiVSsyPhGzFlMF260807.shtml",
+        "time": "2026-08-07 06:24:34",
+        "summary": "当地时间8月6日，美国总统特朗普表示，关于重新开放霍尔木兹海峡的协议“尚不能说已经正式达成”，但海峡目前“某种程度上已经开放”，美方正参与相关谈判，整体进展良好。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/08/07/2026080706242261927.jpg"
+      }
+    ],
+    "generated": "2026-08-07 08:00"
+  }
+}
