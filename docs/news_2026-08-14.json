@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-14",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "时政微观察丨从“树的故事”看正确政绩观",
+        "url": "https://news.cctv.com/2026/08/14/ARTIqZKd15QPt2TSrkKddw3d260814.shtml",
+        "time": "2026-08-14 07:59:57",
+        "summary": "树木扎根大地，年轮印证初心。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/14/2026081407564165195.jpg"
+      },
+      {
+        "title": "“算力金属”身价飙升 揭秘AI背后“硬通货”",
+        "url": "https://news.cctv.com/2026/08/14/ARTIlT9eZV0bqYYQ0WDqJBk1260814.shtml",
+        "time": "2026-08-14 07:28:45",
+        "summary": "近日，中国有色金属工业协会发布的最新数据显示，今年上半年，我国有色金属行业的利润上涨了94%，其实这背后主要是AI需求的拉动。而这些金属也有个通称，叫“算力金属”。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/08/14/2026081407270634859.jpg"
+      },
+      {
+        "title": "我国生态环境持续向好 主要指标明显改善",
+        "url": "https://news.cctv.com/2026/08/14/ARTInae8mScVPrhCnQxAuARM260814.shtml",
+        "time": "2026-08-14 07:19:45",
+        "summary": "国务院新闻办公室昨天（13日）举行“开局起步‘十五五’”系列主题新闻发布会。生态环境部相关负责人介绍了全面推进美丽中国建设有关情况。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/14/2026081407182248177.jpg"
+      },
+      {
+        "title": "高达100% 美国将对进口无人机及零部件征收关税",
+        "url": "https://news.cctv.com/2026/08/14/ARTIbS6NyiP5T69ia9g1cEDY260814.shtml",
+        "time": "2026-08-14 07:02:26",
+        "summary": "当地时间8月13日，美国白宫发表声明称，美国总统特朗普当日签署公告，以应对国家安全威胁为由对进口无人机及零部件征收10%至100%的从价关税。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/08/14/2026081407021786300.jpg"
+      },
+      {
+        "title": "希腊度假胜地野火失控致数百人疏散 两名消防员受伤",
+        "url": "https://news.cctv.com/2026/08/14/ARTIrTlQpobS6XFK35mAx5cK260814.shtml",
+        "time": "2026-08-14 07:00:43",
+        "summary": "当地时间13日，希腊北部哈尔基季基半岛度假胜地锡维里发生大规模森林火灾。受强风影响，火势迅速蔓延，造成数百人被疏散、两名消防员受伤。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/08/14/2026081407003549246.jpg"
+      }
+    ],
+    "generated": "2026-08-14 08:00"
+  }
+}
