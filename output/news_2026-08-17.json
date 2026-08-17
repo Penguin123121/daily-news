@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-17",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "捕虫者说“只抓雄虫” 专家：一样伤种群",
+        "url": "https://news.cctv.com/2026/08/17/ARTIsPXXz2yc6D7KLa2Np1iv260817.shtml",
+        "time": "2026-08-17 07:51:36",
+        "summary": "暑期期间，有不少自然爱好者和亲子家庭走进山林观察昆虫。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/17/2026081707495887230.jpg"
+      },
+      {
+        "title": "用正确政绩观一体推进教育科技人才发展",
+        "url": "https://news.cctv.com/2026/08/17/ARTI2Y2VPE0pMx4cjusOPxGW260817.shtml",
+        "time": "2026-08-17 06:46:39",
+        "summary": "党中央开展树立和践行正确政绩观学习教育，旨在引导广大党员干部落实“立党为公、为民造福、科学决策、真抓实干”总要求。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/08/17/2026081706460921595.jpg"
+      },
+      {
+        "title": "中国经济半年报｜冷链消费稳步扩大 绿色转型提速增效",
+        "url": "https://jingji.cctv.com/2026/08/17/ARTIKpmKXgCBPsPeWYsQQ38R260816.shtml",
+        "time": "2026-08-17 06:18:38",
+        "summary": "在宏观经济回升向好、物流运行韧性增长的背景下，上半年冷链物流保持稳步发展态势，冷链消费需求温和回升，绿色低碳转型加速推进。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/16/2026081622581025592.jpg"
+      },
+      {
+        "title": "神二十三乘组在轨80余天 多项空间科学实（试）验有序推进",
+        "url": "https://news.cctv.com/2026/08/17/ARTIXmkOnVfoEanpgVegdBlq260816.shtml",
+        "time": "2026-08-17 05:00:32",
+        "summary": "目前，中国空间站神舟二十三号乘组三名航天员朱杨柱、张志远、黎家盈已在轨驻留80余天。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/08/16/2026081623581387455.jpg"
+      },
+      {
+        "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
+        "url": "https://news.cctv.com/2026/08/17/ARTIw8EW2pmxvaNAqEVcTuS3260816.shtml",
+        "time": "2026-08-17 04:43:08",
+        "summary": "据了解，“丰菽”2.0整合了大豆种质资源、基因组与编码序列、蛋白质、转录本、基因表达、病害样本、育种试验记录及中外文献资料，形成面向大豆科研的结构化知识体系。相较于初代版本，“丰菽”2.0新增多模型协同分析机制。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/08/16/2026081621223884300.jpg"
+      }
+    ],
+    "generated": "2026-08-17 08:00"
+  }
+}
