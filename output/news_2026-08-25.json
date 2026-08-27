@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-08-25 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "松州古城夜色美",
+        "url": "https://photo.cctv.com/2026/08/25/PHOAWZtaJ041ZsQarZno4vpG260825.shtml",
+        "time": "2026-08-25 11:00:25",
+        "summary": "松州古城位于四川省阿坝藏族羌族自治州松潘县境内，现为全国重点文物保护单位。夜晚来临，游人漫步古城之中，感受悠久历史，尽享人间烟火。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/25/2026082510244549377.jpg"
+      },
+      {
+        "title": "鸟瞰死海天坑奇观",
+        "url": "https://photo.cctv.com/2026/08/25/PHOA19BjGmuPOdXCwQN3Whow260825.shtml",
+        "time": "2026-08-25 11:00:08",
+        "summary": "多年来，死海水面不断下降，导致地下盐层溶解，沿岸塌陷，形成大量天坑。巨大的“天坑”与湛蓝的死海勾勒出独特而奇妙的自然画卷。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/25/2026082510174937512.jpg"
+      },
+      {
+        "title": "校园迎开学",
+        "url": "https://photo.cctv.com/2026/08/25/PHOAuvJr8Wa0mHezS84BFCEG260825.shtml",
+        "time": "2026-08-25 11:00:33",
+        "summary": "近日，各地中小学、幼儿园开展开学准备工作，为孩子们营造一个安全、温馨的校园环境。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/08/25/2026082510422729951.jpg"
+      },
+      {
+        "title": "“救援航母”挺进广西宁明灾区",
+        "url": "https://photo.cctv.com/2026/08/25/PHOAn9WlRveSsAZubXReh4GF260825.shtml",
+        "time": "2026-08-25 11:00:19",
+        "summary": "24日下午，根据地方联指统一部署安排，救援队员快速完成应急动力舟桥组装作业，成功搭建起水上应急救援通道。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/08/25/2026082510340899332.jpg"
+      },
+      {
+        "title": "严禁混用！北京警方联动多部门整治电动自行车、电动摩托车涉牌违法",
+        "url": "https://news.cctv.com/2026/08/25/ARTIPf9Yl97Lo6Rv4UVvllYI260825.shtml",
+        "time": "2026-08-25 19:37:02",
+        "summary": "自今年5月1日新修订的《北京市非机动车管理条例》正式实施以来，北京公安交管部门在加强路面通行类违法查处、提示骑乘人员规范佩戴安全头盔的同时，联合市相关执法部门，会同刑侦、网安等警种，深化涉牌交通执法，有效净化首都交通秩序环境。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/25/2026082519364756359.jpg"
+      }
+    ],
+    "generated": "2026-08-25 20:00"
   }
 }

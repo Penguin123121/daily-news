@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-08-26 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "江西婺源：晒秋正当时",
+        "url": "https://photo.cctv.com/2026/08/26/PHOAmd8T0OttKEo65pnuPmTB260826.shtml",
+        "time": "2026-08-26 11:15:37",
+        "summary": "眼下正值初秋时节，在江西省上饶市婺源县篁岭村，当地村民用竹匾盛放收获的红辣椒、玉米、南瓜、豆角等农作物，摆放在徽派民居的木架上进行晾晒。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/26/2026082611145370109.jpg"
+      },
+      {
+        "title": "成都：绚丽朝霞浸染天际",
+        "url": "https://photo.cctv.com/2026/08/26/PHOA8ebtL6MV2XN78ncY87pA260826.shtml",
+        "time": "2026-08-26 11:35:28",
+        "summary": "8月25日，成都，晨曦破晓，日出洒落大地。田野晨雾缭绕，一列高铁穿梭于漫天霞光之中，绘就一幅生机盎然的平原晨景。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/26/2026082611342843146.jpg"
+      },
+      {
+        "title": "江苏扬州：瘦西湖暑期旅游火爆",
+        "url": "https://photo.cctv.com/2026/08/26/PHOAhrwdUUYQMi9tyjNOUJKh260826.shtml",
+        "time": "2026-08-26 11:24:22",
+        "summary": "8月25日，江苏扬州瘦西湖风景区，夏日翠绿与秋日斑黄交织，斑斓的色彩与蓝天白云、五亭桥、白塔等古典建筑相映成趣，游客徜徉其间，尽享诗意时光。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/08/26/2026082611235774723.jpg"
+      },
+      {
+        "title": "湖北房县：路网联通助力乡村振兴",
+        "url": "https://photo.cctv.com/2026/08/26/PHOARwjRhOgMw0zDo9xxTnsK260826.shtml",
+        "time": "2026-08-26 11:21:49",
+        "summary": "8月25日，湖北房县，高速公路与县、乡村级公路互联互通，带动乡村经济发展。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/26/2026082611212879693.jpg"
+      },
+      {
+        "title": "国务院食安办对“消杀公司违规使用敌敌畏为餐饮门店消杀”事件实行挂牌督办",
+        "url": "https://news.cctv.com/2026/08/26/ARTIYnjVO8fbBa2iw36j9COT260826.shtml",
+        "time": "2026-08-26 19:33:05",
+        "summary": "针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同市场监管总局、国家疾控局成立联合工作组，赴实地督促指导案件查办，依法严惩重处违法违规行为，举一反三开展风险排查，切实维护人民群众饮食安全。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/08/26/2026082619325629383.jpg"
+      }
+    ],
+    "generated": "2026-08-26 20:00"
   }
 }
