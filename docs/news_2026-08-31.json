@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-31",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "危急时刻伸援手 诠释使命与担当",
+        "url": "https://news.cctv.com/2026/08/31/ARTIzx1NfoVZe1ipoSRiJ6IT260831.shtml",
+        "time": "2026-08-31 00:30:50",
+        "summary": "岗位平凡，善意不凡。在云南普洱、江苏徐州等地，面对紧急险情，有人挺身而出，用行动诠释了爱心与担当。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/08/30/2026083023461950729.png"
+      },
+      {
+        "title": "技能培训提升就业能力",
+        "url": "https://news.cctv.com/2026/08/31/ARTIMYIEmnb2P6ETbsZ63ee9260831.shtml",
+        "time": "2026-08-31 00:29:52",
+        "summary": "今年以来，国家围绕产业发展需要，开展针对性职业技能培训，不断提升劳动者的就业能力。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/08/30/2026083023302340687.jpg"
+      },
+      {
+        "title": "美国新泽西州发生枪击事件 已致2死9伤",
+        "url": "https://news.cctv.com/2026/08/31/ARTIG8lY5HBlzpCSPMK1HJW6260831.shtml",
+        "time": "2026-08-31 00:29:39",
+        "summary": "央视记者获悉，当地时间8月30日凌晨，美国新泽西州特伦顿市发生大规模枪击事件，共有11人中枪，其中2人死亡、9人被送医。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/08/31/2026083100292272324.jpg"
+      },
+      {
+        "title": "冰岛公投结果反对重启加入欧盟谈判",
+        "url": "https://news.cctv.com/2026/08/31/ARTI0M9XyWw4WWXr6nhzAjCH260831.shtml",
+        "time": "2026-08-31 00:28:24",
+        "summary": "冰岛29日举行全民公投，就是否重启加入欧盟的谈判进行表决。据冰岛国家广播公司30日报道，公投的最终结果显示，在22万多张选票中，超过52%的人反对。冰岛曾于2009年申请加入欧盟，2013年暂停入盟谈判。时隔十多年，为何重启入盟议题？",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/08/30/2026083023365191039.jpg"
+      },
+      {
+        "title": "尼泊尔泥石流灾害中已取得联系的中方人员已安全转移",
+        "url": "https://news.cctv.com/2026/08/31/ARTIVyXxWYLhWsBqnL2eq6tc260831.shtml",
+        "time": "2026-08-31 00:24:02",
+        "summary": "据中国驻尼泊尔大使馆30日消息，截至当地时间当天中午，在尼泊尔泥石流灾害中已取得联系的中方人员已全部转移至安全地区。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/08/31/2026083100230785780.jpg"
+      }
+    ],
+    "generated": "2026-08-31 08:00"
+  }
+}
