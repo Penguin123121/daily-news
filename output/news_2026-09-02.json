@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-02",
+  "weekday": "周三",
+  "morning": {
+    "news": [
+      {
+        "title": "多地风雨持续 台风“沙德尔”停编后为何再度加强为台风？",
+        "url": "https://news.cctv.com/2026/09/02/ARTIxYRcv49Z2go9o89LLkdc260901.shtml",
+        "time": "2026-09-02 00:13:01",
+        "summary": "今年第18号台风“沙德尔”减弱停止编号后，9月1日凌晨在南海西北部海域再度加强为台风。9月1日，闽浙等地部分地区有大到暴雨。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/09/01/2026090123521476852.png"
+      },
+      {
+        "title": "焦点访谈｜专业“上新” 新农科瞄准农业需求育栋梁",
+        "url": "https://news.cctv.com/2026/09/01/ARTIAiC3nNfz7xHPmdQPFN19260901.shtml",
+        "time": "2026-09-01 22:26:07",
+        "summary": "前不久，教育部发布了《普通高等学校本科专业目录（2026年）》，全国本科院校整体新增38个全新统招本科专业。这其中，多个紧扣国家粮食安全、乡村振兴、智慧农业布局的前沿涉农交叉专业首次亮相。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/09/01/2026090122175333990.jpg"
+      },
+      {
+        "title": "大国外交最前线丨如何推动上合组织高质量发展？习近平主席在峰会上提出重要主张",
+        "url": "https://news.cctv.com/2026/09/01/ARTI8l1v3bY090EeSQze7CDH260901.shtml",
+        "time": "2026-09-01 21:48:44",
+        "summary": "当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议，并发表题为《推动上海合作组织实现更高质量发展》的重要讲话。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/01/2026090121431496925.jpg"
+      },
+      {
+        "title": "时政Vlog丨记者走透透！看沙漠中崛起的中埃苏伊士经贸合作区",
+        "url": "https://news.cctv.com/2026/09/01/ARTI274szLmUoOXjKsuW9HlZ260901.shtml",
+        "time": "2026-09-01 21:44:38",
+        "summary": "应埃及总统塞西邀请，国家主席习近平将对埃及进行国事访问。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/09/01/2026090121394683738.jpg"
+      },
+      {
+        "title": "吉隆口岸救援通信实现核心区域全覆盖",
+        "url": "https://news.cctv.com/2026/09/01/ARTIzopx4HhHCGyKvrgJFUzR260901.shtml",
+        "time": "2026-09-01 20:53:28",
+        "summary": "针对吉隆口岸灾情救援通信保障需求，前方保障力量持续攻坚作业，通过地面光缆布设、临时基站搭建、空中无人机补盲相结合的立体保障模式，全面打通口岸核心救援区域通信末梢，实现5G网络全域稳定覆盖。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/09/01/2026090120484960828.png"
+      }
+    ],
+    "generated": "2026-09-02 08:00"
+  }
+}
