@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-15",
+  "weekday": "周二",
+  "morning": {
+    "news": [
+      {
+        "title": "学生信息岂容肆意买卖",
+        "url": "https://news.cctv.com/2026/09/15/ARTIgpVmftpCz7jK6dHqE7pD260914.shtml",
+        "time": "2026-09-15 01:39:15",
+        "summary": "近期，四川、山西等地公安机关接连破获非法倒卖学生个人信息大案。从校园“内鬼”违规导出数据，到运维人员监守自盗，再到中介层层加价转卖，一条条非法倒卖学生信息的灰黑链条浮出水面。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/14/2026091423060151763.jpg"
+      },
+      {
+        "title": "全球首个人工智能+脑机接口标准 中国首发！",
+        "url": "https://news.cctv.com/2026/09/15/ARTIa6Ihq1oolMHJJadIUxcM260914.shtml",
+        "time": "2026-09-15 01:36:16",
+        "summary": "国家药监局9月14日批准发布我国第三个脑机接口医疗器械标准，这也是全球首个采用人工智能技术处理脑电数据的脑机接口医疗器械产品标准，将于明年9月1日起正式实施。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/09/14/2026091421401882818.jpg"
+      },
+      {
+        "title": "女子随意横穿马路酿成事故被判全责",
+        "url": "https://news.cctv.com/2026/09/15/ARTIh7sxP5SLd07BwMtTLZCX260914.shtml",
+        "time": "2026-09-15 00:45:45",
+        "summary": "交警秉公执法、现场普法的视频上传网络后收获大量网友点赞，被称为教科书式执法。现场到底发生了什么？",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/09/14/2026091421475417236.jpg"
+      },
+      {
+        "title": "48个曲种将亮相第十四届中国曲艺牡丹奖终评比赛",
+        "url": "https://news.cctv.com/2026/09/15/ARTIagen9w83HP6ScVtC0eOB260914.shtml",
+        "time": "2026-09-15 00:38:49",
+        "summary": "本届牡丹奖首次实行终评现场比赛制，共有80余个节目进入终评，荟萃48个风格各异的南北曲种，来自全国各地的500余名演员将分场次角逐节目奖、文学奖、表演奖、新人奖四个奖项。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/09/14/2026091423083085354.jpg"
+      },
+      {
+        "title": "“花开敦煌”常沙娜艺术展在深圳美术馆开展",
+        "url": "https://news.cctv.com/2026/09/15/ARTIVeKEroX3TMaQTUri9iYZ260915.shtml",
+        "time": "2026-09-15 00:34:12",
+        "summary": "9月10日，“花开敦煌——常沙娜艺术研究与应用展”在深圳美术馆启幕。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/09/15/2026091500331653762.jpg"
+      }
+    ],
+    "generated": "2026-09-15 08:00"
+  }
+}
