@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-23",
+  "weekday": "周三",
+  "morning": {
+    "news": [
+      {
+        "title": "跟着习爷爷学在纪念馆｜第一集 为了理想 出发！",
+        "url": "https://news.cctv.com/2026/09/23/ARTI75hZSArTssZSCGh5uhI8260923.shtml",
+        "time": "2026-09-23 07:25:01",
+        "summary": "在江西省于都县的中央红军长征出发纪念馆里，一件件革命文物，见证着红军夜渡于都河的历史，承载着军民生死与共的故事。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/09/23/2026092307200780270.jpg"
+      },
+      {
+        "title": "台风“杜鹃”已致日本7人死亡",
+        "url": "https://news.cctv.com/2026/09/23/ARTIkpsCbZ7tP2T20afmBI8u260923.shtml",
+        "time": "2026-09-23 07:19:15",
+        "summary": "总台记者当地时间23日获悉，受今年第25号台风“杜鹃”带来的强降雨影响，日本关东地区和伊豆群岛遭遇创纪录规模暴雨，多地接连发生山体滑坡、河流泛滥引发的洪水灾害。住宅受灾情况也不断增加，目前已确认千叶县、神奈川县和茨城县共有500多栋房屋受损。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/09/23/2026092307185157082.jpg"
+      },
+      {
+        "title": "老年食堂变成“会客厅” 一餐饭链接起来的养老服务",
+        "url": "https://news.cctv.com/2026/09/23/ARTIKUaLHG8rG8GNi7IdcykE260923.shtml",
+        "time": "2026-09-23 06:49:23",
+        "summary": "目前，我国60周岁及以上老年人口超过3.23亿，占总人口的23%。如何让老人吃上一口热乎饭，不仅是家庭责任，更是积极应对人口老龄化、优化养老服务供给、促进老有所养的社会刚需。而老年食堂要实现可持续运营，是道不小的民生难题。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/09/23/2026092306442498944.jpg"
+      },
+      {
+        "title": "秋分后6大疾病高发 做好这几点冬天少生病→",
+        "url": "https://news.cctv.com/2026/09/23/ARTIF34QZHJsCmBrRDyiVIRs260923.shtml",
+        "time": "2026-09-23 06:33:59",
+        "summary": "今天是秋分节气，气候由温转凉，这是一年中养生调体的重要节点。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/09/23/2026092306312790193.jpg"
+      },
+      {
+        "title": "伊朗外长与美特使在纽约会晤",
+        "url": "https://news.cctv.com/2026/09/23/ARTITsqV5mYkdtRn0HtnEID4260923.shtml",
+        "time": "2026-09-23 06:29:08",
+        "summary": "当地时间22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。据伊朗方面消息称，此举是“应美方要求”，伊朗同意威特科夫的会晤请求，是出于“传达伊朗关于重新开放霍尔木兹海峡条件”的需要。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/09/23/2026092306284993996.jpg"
+      }
+    ],
+    "generated": "2026-09-23 08:00"
+  }
+}
