@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-25",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "独家视频丨习近平出席特朗普在白宫举行的欢迎仪式",
+        "url": "https://news.cctv.com/2026/09/25/ARTIhgjM7NXIGC3zfRTa7ETK260925.shtml",
+        "time": "2026-09-25 00:20:14",
+        "summary": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/09/25/2026092500101928759.jpg"
+      },
+      {
+        "title": "大国外交最前线丨白宫现场见证！中美元首再次“跨越太平洋的握手”",
+        "url": "https://news.cctv.com/2026/09/25/ARTICibR7fOH8SCvtbnKyjep260924.shtml",
+        "time": "2026-09-25 00:00:26",
+        "summary": "当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/09/24/2026092423530822517.jpg"
+      },
+      {
+        "title": "大国外交进行时丨致辞结束后 中美两国元首夫妇前往白宫阳台观看海军陆战队表演",
+        "url": "https://news.cctv.com/2026/09/24/ARTIHrgWyHzOowpo2ram44AB260924.shtml",
+        "time": "2026-09-24 23:59:44",
+        "summary": "当地时间9月24日上午，国家主席习近平出席美国总统特朗普在白宫举行的欢迎仪式。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/24/2026092423461213716.jpg"
+      },
+      {
+        "title": "独家视频丨习近平在白宫欢迎仪式上发表致辞",
+        "url": "https://news.cctv.com/2026/09/24/ARTI8kLVopPvdp9jZTSCnPUo260924.shtml",
+        "time": "2026-09-24 23:57:08",
+        "summary": "当地时间9月24日上午，习近平夫妇在特朗普夫妇陪同下步入白宫。在雄壮的军乐声中，两国元首行至中厅。军乐团奏中美两国国歌。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/09/24/2026092423480260876.jpg"
+      },
+      {
+        "title": "习近平同美国总统特朗普小范围交流",
+        "url": "https://news.cctv.com/2026/09/24/ARTIQ6AQNBPVC29RCw8DtvZj260924.shtml",
+        "time": "2026-09-24 23:55:07",
+        "summary": "当地时间9月24日上午，国家主席习近平同美国总统特朗普在白宫椭圆形办公室小范围交流。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/24/2026092423545089549.jpg"
+      }
+    ],
+    "generated": "2026-09-25 08:00"
+  }
+}
