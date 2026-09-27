@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-28",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "国际聋人日 ：你的听力还好吗？",
+        "url": "https://news.cctv.com/2026/09/28/ARTIymVVVVeZ9rNB7XhuiSl5260928.shtml",
+        "time": "2026-09-28 00:40:51",
+        "summary": "9月27日是第69个国际聋人日。据推算，我国约有2.2亿人患有听力损失，60岁以上人群听力损失现患率约为45%。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/28/2026092800402230455.jpg"
+      },
+      {
+        "title": "尼泊尔强降雨引发灾情 已致21人死亡",
+        "url": "https://news.cctv.com/2026/09/28/ARTIfQWdiGKaRWaDIEVln0qR260928.shtml",
+        "time": "2026-09-28 00:36:10",
+        "summary": "根据尼泊尔国家减少灾害风险管理局通报，截至当地时间27日18时，持续强降雨引发的洪水和山体滑坡已造成该国21人死亡，另有多人失踪和受伤。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/09/28/2026092800354840885.jpg"
+      },
+      {
+        "title": "中秋假期结束：交通出行需求保持高位 短途出行活跃",
+        "url": "https://news.cctv.com/2026/09/28/ARTIooEyjeNo3DSgBsYFxiN4260928.shtml",
+        "time": "2026-09-28 00:05:29",
+        "summary": "9月27日是中秋假期最后一天，整个假期交通出行有哪些特点？一起来看最新数据。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/09/27/2026092723545333883.jpg"
+      },
+      {
+        "title": "为何今年十五的月亮十七圆？",
+        "url": "https://news.cctv.com/2026/09/28/ARTIjZth9MHJSmy0u4yhQ11V260928.shtml",
+        "time": "2026-09-28 00:04:06",
+        "summary": "都说“十五的月亮十六圆”，然而，天文学家计算的结果却显示：今年中秋月圆的时刻既不在农历八月十五，也不是八月十六，而是出现在八月十七，也就是9月27日。这是怎么回事呢？",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/09/27/2026092723424833089.jpg"
+      },
+      {
+        "title": "中秋假期消费市场需求旺盛",
+        "url": "https://news.cctv.com/2026/09/28/ARTIhEMRpVuqbWfIILfwSlBC260928.shtml",
+        "time": "2026-09-28 00:03:26",
+        "summary": "记者从商务部了解到，中秋假期全国消费市场需求旺盛，生活必需品货足价稳。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/27/2026092723360119440.jpg"
+      }
+    ],
+    "generated": "2026-09-28 08:00"
+  }
+}
