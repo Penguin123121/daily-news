@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-01",
+  "weekday": "周四",
+  "morning": {
+    "news": [
+      {
+        "title": "假期新去处 北海公园琉璃阁院落正式面向公众开放",
+        "url": "https://news.cctv.com/2026/10/01/ARTIB4UfnmiRb7opKgNk05SI260930.shtml",
+        "time": "2026-10-01 01:36:33",
+        "summary": "9月29日，历经腾退移交、保护性维护与服务提升，有着近300年历史的北京北海公园琉璃阁院落正式面向公众开放。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/30/2026093022353434025.jpg"
+      },
+      {
+        "title": "两个老人被骗钱？别信！别转账！",
+        "url": "https://news.cctv.com/2026/10/01/ARTIRTwHFupYab4dnn7e8EqV260930.shtml",
+        "time": "2026-10-01 01:36:31",
+        "summary": "案例一：一老人接到孙子求助电话向他要钱，可孙子却否认此事；案例二：另一老人发现手机乱扣费，怀疑是孙子花钱玩网游。两位老人都是因为手机而损失钱财，是他们本人操作不当，还是有人故意设下陷阱？",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/30/2026093023361465119.jpg"
+      },
+      {
+        "title": "“雪龙”“雪龙2”号船返回上海 中国第16次北冰洋考察取得多项重要进展",
+        "url": "https://news.cctv.com/2026/10/01/ARTItb5dRTA9tKSfIe9hk9iP260930.shtml",
+        "time": "2026-10-01 01:06:51",
+        "summary": "9月29日，执行中国第16次北冰洋考察任务的“雪龙”号、“雪龙2”号船返回上海。本次考察取得多项重要进展。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/09/30/2026093023173865015.jpg"
+      },
+      {
+        "title": "央视财经评论 | 水网纵横 感受大国经济脉动",
+        "url": "https://news.cctv.com/2026/09/30/ARTIWdmnEg56InJOlaQMkw6V260930.shtml",
+        "time": "2026-09-30 23:06:08",
+        "summary": "9月30日下午，国新办举行发布会，水利部主要负责人介绍了“十五五”期间，加快建设现代水网的主要着力方向，披露了水网建设的最新进展。专家表示，提升系统效能，促进六网协同，构建纲脉贯通、目络通达、节点稳固的现代化水网。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/09/30/2026093023053611982.jpg"
+      },
+      {
+        "title": "北上广落地现房销售 三地政策有哪些异同点？",
+        "url": "https://jingji.cctv.com/2026/09/30/ARTId2CwsYIIC93zrrsLYGUY260930.shtml",
+        "time": "2026-09-30 22:59:25",
+        "summary": "继北京、上海之后，广州今天也出台现房销售实施细则。至此，一线城市中，已有三个落地新房销售改革。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/09/30/2026093022531897797.jpg"
+      }
+    ],
+    "generated": "2026-10-01 08:00"
+  }
+}
