@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-06",
+  "weekday": "周二",
+  "morning": {
+    "news": [
+      {
+        "title": "退货疑云",
+        "url": "https://news.cctv.com/2026/10/06/ARTIsG5YdgDVujUMjWdueAbD261006.shtml",
+        "time": "2026-10-06 07:31:17",
+        "summary": "在某电商平台的退货商品仓储区鞋类商品拆包工作台上，质检员小张熟练地打开了一个包裹，里面是一双知名品牌的运动鞋，然而，仔细查验后，小张不由得眉头紧锁，她发现了一个异常情况。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/06/2026100607302530970.jpg"
+      },
+      {
+        "title": "网传凭员工口令可购低价机票 靠谱吗？",
+        "url": "https://news.cctv.com/2026/10/06/ARTIrgngK0zcM9dQ2a9WnEAU261006.shtml",
+        "time": "2026-10-06 07:29:23",
+        "summary": "有网友发现有博主发布视频，声称凭“员工口令”即可购买低价机票，只需在一些在线旅游平台或小程序中搜索一串数字，就能找到机票“福利价”。那么这种说法靠谱吗？",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/06/2026100607290546564.jpg"
+      },
+      {
+        "title": "假日提醒：莫把“智驾”当“代驾”",
+        "url": "https://news.cctv.com/2026/10/06/ARTIpyzKLnrAAWFptdChYAvc261006.shtml",
+        "time": "2026-10-06 07:27:08",
+        "summary": "如今，汽车的智能辅助驾驶功能越来越普及，部分车主可能会有“开启智驾后，不需要驾驶人干预车子就能安全自动驾驶”的错误认知，交警提醒，千万不能把“智驾”当成“代驾”。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/06/2026100607264811465.jpg"
+      },
+      {
+        "title": "百日千万招聘专项行动推出四个线上招聘专场",
+        "url": "https://news.cctv.com/2026/10/06/ARTIKvCqQUVrfe0axvjgdb77261006.shtml",
+        "time": "2026-10-06 07:21:17",
+        "summary": "记者从人力资源社会保障部获悉，10月5日起，百日千万招聘专项行动推出4个线上招聘专场。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/06/2026100607205394695.jpg"
+      },
+      {
+        "title": "安全运行48年 宁夏原油外输管网累计输油突破2亿吨",
+        "url": "https://news.cctv.com/2026/10/06/ARTI6VPvlzQxhRgH4bYuu5pe261006.shtml",
+        "time": "2026-10-06 07:15:29",
+        "summary": "10月6日，记者从国家管网集团获悉，宁夏原油外输管网累计输送原油突破2亿吨。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/06/2026100607140238889.jpg"
+      }
+    ],
+    "generated": "2026-10-06 08:00"
+  }
+}
