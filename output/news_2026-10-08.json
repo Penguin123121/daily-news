@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-08",
+  "weekday": "周四",
+  "morning": {
+    "news": [
+      {
+        "title": "刚果（金）埃博拉疫情确诊病例升至8665例",
+        "url": "https://news.cctv.com/2026/10/08/ARTIpOk3ScKI99T02PTmFgo2261008.shtml",
+        "time": "2026-10-08 02:40:15",
+        "summary": "当地时间10月7日消息，刚果（金）卫生部最新数据显示，截至目前，该国本轮埃博拉疫情累计报告确诊病例8665例，其中死亡4178例，病死率48.2%。世卫组织总干事谭德塞8月12日表示，刚果（金）本轮疫情“已是有记录以来第二大埃博拉疫情”。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/08/2026100802400889270.jpg"
+      },
+      {
+        "title": "乌外交部：乌方目前正研究“五种不同的停火机制”",
+        "url": "https://news.cctv.com/2026/10/08/ARTIw6MrhcqghJVCXV93WPJw261008.shtml",
+        "time": "2026-10-08 02:38:02",
+        "summary": "当地时间10月7日，乌克兰外交部发言人季希在基辅举行的新闻发布会上表示，乌克兰愿意参加乌克兰、俄罗斯和美国三方和平会谈。他表示，乌方希望会谈能够于10月举行。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/08/2026100802374587211.jpg"
+      },
+      {
+        "title": "波兰一学校发生持刀袭击事件 至少10人受伤",
+        "url": "https://news.cctv.com/2026/10/08/ARTIzj9VZDNQvC4peVK52Gqx261008.shtml",
+        "time": "2026-10-08 02:36:29",
+        "summary": "波兰中部马佐夫舍省奥斯特罗文卡市一所学校7日发生持刀袭击事件，造成包括袭击者在内的至少10人受伤，包括5名学生，2名老师，伤者均已入院治疗。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/08/2026100802361333628.jpg"
+      },
+      {
+        "title": "伊朗高级官员：伊朗绝不会放弃铀浓缩权利",
+        "url": "https://news.cctv.com/2026/10/08/ARTIlDBxK7ArpXXC2nOh1KeX261008.shtml",
+        "time": "2026-10-08 02:35:09",
+        "summary": "当地时间7日，伊朗一名高级官员表示，就美国副总统万斯5日发表的，伊朗必须“实质性”削减其铀浓缩能力，才能满足美方要求进而结束美伊冲突的言论，该官员表示，美方的“诉求与想法”和伊朗的要求存在分歧。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/08/2026100802345797907.jpg"
+      },
+      {
+        "title": "安理会举行联合国秘书长遴选第五轮意向性投票",
+        "url": "https://news.cctv.com/2026/10/08/ARTIrMclGfspOzrpVrM8UpdI261008.shtml",
+        "time": "2026-10-08 02:34:03",
+        "summary": "联合国安理会7日就下一任秘书长遴选举行第五轮意向性投票。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/08/2026100802335781923.jpg"
+      }
+    ],
+    "generated": "2026-10-08 08:00"
+  }
+}
