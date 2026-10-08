@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-09",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "广西贵港闪爆事故2名失联人员确认已无生命体征",
+        "url": "https://news.cctv.com/2026/10/09/ARTInYgINZBrMK55lEsNQ3gJ261009.shtml",
+        "time": "2026-10-09 01:11:44",
+        "summary": "记者从广西贵港市港南区应急管理局了解到，经多方全力搜救，在港南区新塘镇湖表村郁江河段工程船舶闪爆事故中失联的2名人员，已分别于2026年10月8日凌晨4时20分、上午9时08分被找到，经法医鉴定，确认已无生命体征。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/09/2026100901111684991.jpg"
+      },
+      {
+        "title": "胡塞武装导弹残骸坠落利雅得 致幼儿园和医疗设施受损",
+        "url": "https://news.cctv.com/2026/10/09/ARTIIUQPgZTv9v0dNwxFETax261009.shtml",
+        "time": "2026-10-09 01:09:54",
+        "summary": "当地时间10月8日，沙特阿拉伯民防部门通报称，当天在首都利雅得，胡塞武装发射的一枚弹道导弹遭拦截摧毁后，部分残骸坠落。坠落残骸造成一所幼儿园和一处医疗诊所综合体出现不同程度损毁。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/09/2026100901094688526.jpg"
+      },
+      {
+        "title": "特朗普：不会在中期选举之前攻击伊朗",
+        "url": "https://news.cctv.com/2026/10/09/ARTIIryfEy4DNEkmCOd2EKP2261009.shtml",
+        "time": "2026-10-09 01:08:51",
+        "summary": "当地时间8日，美国总统特朗普表示，正在与伊朗进行富有成效的会谈，且绝不会在11月3日美国国会中期选举前攻击伊朗。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/09/2026100901084463609.jpg"
+      },
+      {
+        "title": "结束10个月部署 美国“林肯”号航母返回圣迭戈母港",
+        "url": "https://news.cctv.com/2026/10/09/ARTIwyWv3zPLzr9SI3ULYq99261009.shtml",
+        "time": "2026-10-09 01:07:37",
+        "summary": "总台记者获悉，当地时间10月8日，美国海军“林肯”号航空母舰结束了为期10个月的部署，现已返回加利福尼亚州圣迭戈母港。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/09/2026100901072813633.jpg"
+      },
+      {
+        "title": "迪拜航空航班险情中挺身而出 6名以色列人获表彰",
+        "url": "https://news.cctv.com/2026/10/09/ARTIEsnwArob0QcFhDMV5xtb261009.shtml",
+        "time": "2026-10-09 01:05:44",
+        "summary": "当地时间8日，以色列总统赫尔佐格在总统官邸举行仪式，向六名以色列人颁发“总统平民英雄奖”。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/09/2026100901053727657.jpg"
+      }
+    ],
+    "generated": "2026-10-09 08:00"
+  }
+}
