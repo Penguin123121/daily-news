@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-10",
+  "weekday": "周六",
+  "morning": {
+    "news": [
+      {
+        "title": "九十一年军魂传承 走近大渡河畔的“守坝人”",
+        "url": "https://news.cctv.com/2026/10/10/ARTIIgigA0EVhOhBw0GE4bKI261009.shtml",
+        "time": "2026-10-10 02:00:36",
+        "summary": "九十一年前，红军十七勇士无惧惊涛骇浪，迎着炮火硝烟强渡大渡河。如今，在大渡河畔，一座大坝傲然矗立，锁住滔滔江水、守护万家安澜。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/09/2026100923275596185.jpg"
+      },
+      {
+        "title": "美国宣布对国际刑事法院实施制裁",
+        "url": "https://news.cctv.com/2026/10/10/ARTIoye8xMw4G06FdkTUZO4R261009.shtml",
+        "time": "2026-10-10 01:37:18",
+        "summary": "当地时间10月9日，美国政府宣布对国际刑事法院（ICC）实施制裁。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/09/2026100923365640042.jpg"
+      },
+      {
+        "title": "一艘船舶在阿联酋附近海域遭不明投射物击中起火",
+        "url": "https://news.cctv.com/2026/10/10/ARTI8YdUG3eK1rCN79wq1gg6261010.shtml",
+        "time": "2026-10-10 01:19:38",
+        "summary": "英国海上贸易行动办公室9日通报说，一艘船舶在阿联酋以西海域被不明投射物击中起火。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/10/2026101000165258973.jpg"
+      },
+      {
+        "title": "伊朗总统提议建立“独联体+1”机制",
+        "url": "https://news.cctv.com/2026/10/10/ARTIXjZw4ZQDexG0O4RMukFY261010.shtml",
+        "time": "2026-10-10 01:16:28",
+        "summary": "伊朗总统佩泽希齐扬9日在土库曼斯坦土库曼巴希举行的独联体国家元首理事会会议上提议建立“独联体+1”机制，以加强伊朗与该组织之间的合作。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/10/2026101000160375193.jpg"
+      },
+      {
+        "title": "法媒：法国雷诺阿博物馆失窃画作被找到",
+        "url": "https://news.cctv.com/2026/10/10/ARTI5IInbi7aniA2CAxxGvnJ261010.shtml",
+        "time": "2026-10-10 00:34:27",
+        "summary": "据法国BFMTV新闻资讯台9日报道，法国雷诺阿博物馆此前失窃的两幅画作已被警方找到。报道说，警方于当地时间8日寻回《科隆纳·罗马诺夫人》和《井边少女》两幅被盗的画作。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/10/2026101000340147950.jpg"
+      }
+    ],
+    "generated": "2026-10-10 08:00"
+  }
+}
