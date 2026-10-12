@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-10-11 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "燕赵大地秋收忙",
+        "url": "https://photo.cctv.com/2026/10/11/PHOAnhqGkUo7HW0H3IBhtrkM261011.shtml",
+        "time": "2026-10-11 12:25:03",
+        "summary": "金秋时节，河北省各地抢抓秋粮收获关键期，统筹调配农机装备，利用晴好天气加紧开展玉米、水稻等作物收割作业，确保秋粮丰产丰收。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/11/2026101111411447367.png"
+      },
+      {
+        "title": "杭州：钱江世纪公园打造秋日野趣景观",
+        "url": "https://photo.cctv.com/2026/10/11/PHOAQFqaDxuDmkpmprFJXBB1261011.shtml",
+        "time": "2026-10-11 12:30:13",
+        "summary": "杭州钱江世纪公园变身“秋日野乐园”。公园内成片南瓜搭配干草垛铺满场地，大小南瓜装置吸引市民前来打卡游玩，在城市高楼之间营造出田园气息，让市民感受秋日风光，享受休闲时光。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/11/2026101111503149550.jpg"
+      },
+      {
+        "title": "桂林：节后错峰游升温",
+        "url": "https://photo.cctv.com/2026/10/11/PHOAYSgCeAdKezJTKTzH8TN4261011.shtml",
+        "time": "2026-10-11 12:29:47",
+        "summary": "国庆假期过后，秋风送爽，气候宜人，广西桂林各旅游景区迎来错峰出游客流，全市文旅市场节后热度不减。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/11/2026101111484860897.jpg"
+      },
+      {
+        "title": "江西遂川：稻浪满目鎏金 绘就丰收画卷",
+        "url": "https://photo.cctv.com/2026/10/11/PHOAjhOm9QaDNgD5Jn9XjUhD261011.shtml",
+        "time": "2026-10-11 12:28:02",
+        "summary": "江西遂川枚江镇连片高标准农田阡陌纵横，成熟水稻满目鎏金，村落静卧沃野，秋日丰收图景尽收眼底。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/11/2026101111463995342.jpg"
+      },
+      {
+        "title": "【新思想引领新征程】守护绿水青山 共绘美丽中国新画卷",
+        "url": "https://news.cctv.com/2026/10/11/ARTItpCqHmCOXj2mj8ziq6ER261011.shtml",
+        "time": "2026-10-11 19:59:14",
+        "summary": "习近平总书记指出，要坚持以高水平保护支撑高质量发展，筑牢国家生态安全屏障。“十五五”开局之年，各地坚持以习近平生态文明思想为指引，统筹推进山水林田湖草沙一体化保护和系统治理，不断绘就美丽中国新画卷。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/11/2026101119522660689.jpg"
+      }
+    ],
+    "generated": "2026-10-11 20:00"
   }
 }

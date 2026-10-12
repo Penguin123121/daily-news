@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-10-10 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "新疆和田：翡翠湖碧水黄沙 沙漠锁边工程显成效",
+        "url": "https://photo.cctv.com/2026/10/10/PHOA8YOQcT9geWFRAjY3QiFx261010.shtml",
+        "time": "2026-10-10 10:17:41",
+        "summary": "新疆和田，塔克拉玛干沙漠南缘的和田翡翠湖碧水澄澈，胡杨与沙丘环抱，构成一幅独特的生态画卷。这片湿地的存续得益于和田地区持续推进的防沙治沙及沙漠锁边工程，通过构筑绿色屏障，有效减缓了风沙侵袭，维系了湿地水源，生动展现了治沙工作的显著成效。视觉中国",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/10/2026101010162654608.jpg"
+      },
+      {
+        "title": "杭州：千岛湖隧道艺术馆焕发文旅新活力",
+        "url": "https://photo.cctv.com/2026/10/10/PHOAnAbQzyeUGEJGsCtrveGo261010.shtml",
+        "time": "2026-10-10 10:16:15",
+        "summary": "杭州淳安县千岛湖隧道艺术馆人气旺盛。千里江山图壁画、星空天幕、国庆主题灯光交相辉映，吸引市民游客和骑行爱好者观展拍照、休闲漫步，沉浸式体验旧隧道焕发的文旅新活力。视觉中国",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/10/2026101010140442448.jpg"
+      },
+      {
+        "title": "山东荣成：爱伦湾海滨现火烧云景观",
+        "url": "https://photo.cctv.com/2026/10/10/PHOAObI4iqwKZZLymxJUZumX261010.shtml",
+        "time": "2026-10-10 10:19:04",
+        "summary": "10月9日，山东省荣成市爱伦湾海滨，天空呈现绚烂的火烧云景观，养殖工人驾驶船只在火烧云彩霞泼洒的海面上，从事海上养殖生产，形成缤纷惊艳、耕海牧云的自然色彩。视觉中国",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/10/2026101010175053053.jpg"
+      },
+      {
+        "title": "安徽芜湖：金色稻田 丰收画卷",
+        "url": "https://photo.cctv.com/2026/10/10/PHOAH3184P7Hn1OntNM73fRL261010.shtml",
+        "time": "2026-10-10 10:13:53",
+        "summary": "近日，安徽芜湖，金黄的稻田与村庄、乡村道路、沟渠水系等相映成景，构成一幅江南水乡丰收画卷。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/10/2026101010123453800.jpg"
+      },
+      {
+        "title": "独家视频丨彭丽媛向2026年联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞",
+        "url": "https://news.cctv.com/2026/10/10/ARTIN9UFwgmxLUdAIaOANSzQ261010.shtml",
+        "time": "2026-10-10 19:50:12",
+        "summary": "当地时间10月9日，2026年联合国教科文组织女童和妇女教育奖颁奖仪式在法国巴黎举行。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/10/2026101019400112353.jpg"
+      }
+    ],
+    "generated": "2026-10-10 20:00"
   }
 }

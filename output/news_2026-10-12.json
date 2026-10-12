@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-10-12 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "美丽中国｜枫染代钦塔拉",
+        "url": "https://photo.cctv.com/2026/10/07/PHOA6JRS9dP3PZbYQrrp7Y5V261007.shtml",
+        "time": "2026-10-12 10:16:19",
+        "summary": "秋日，内蒙古兴安盟科尔沁右翼中旗代钦塔拉草原秋色正浓，五角枫林色彩斑斓，与蓝天、草场相映成画。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/12/2026101209483999871.jpg"
+      },
+      {
+        "title": "喀纳斯初雪如画 观鱼台云海仙境",
+        "url": "https://photo.cctv.com/2026/10/12/PHOAsJesdJNot36esxTYkWkE261012.shtml",
+        "time": "2026-10-12 12:16:49",
+        "summary": "近日，新疆阿勒泰喀纳斯迎来初雪，五彩斑斓的泰加林点缀雪山。喀纳斯湖如卧于峰峦的含羞少女，云海萦绕轻纱曼妙，若隐若现。宝石般的湖水三湾与远处的友谊峰交相辉映，宛若仙境。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/12/2026101212121494104.jpg"
+      },
+      {
+        "title": "河北丰南：南蔗北种节节甜",
+        "url": "https://photo.cctv.com/2026/10/08/PHOACgYCKLd6IApBL5Xukfka261008.shtml",
+        "time": "2026-10-12 10:16:27",
+        "summary": "近年来，河北省唐山市丰南区积极调整农业结构，引导农户发展特色农业，通过“南果北移”“南苗北育”模式，引进优良甘蔗品种种植，促进农业增效农民增收。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/12/2026101209230579806.jpg"
+      },
+      {
+        "title": "深圳：新皇岗口岸落成开通",
+        "url": "https://photo.cctv.com/2026/10/12/PHOAgBOjns3S8HRP7f94j9mu261012.shtml",
+        "time": "2026-10-12 10:14:12",
+        "summary": "10月12日，深圳，历时七年升级改造，连接深圳、中国香港两地的新皇岗口岸落成，正式开通运行，为旅客和客运车辆提供24小时通关服务。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/12/2026101210064494943.jpg"
+      },
+      {
+        "title": "甘肃敦煌：大漠胡杨醉金秋",
+        "url": "https://photo.cctv.com/2026/10/08/PHOAZpRE8VtN9L5melArKbd3261008.shtml",
+        "time": "2026-10-12 10:16:37",
+        "summary": "金秋十月，甘肃省敦煌市黄渠镇的胡杨被秋色润染，美丽迷人，吸引游客赏景打卡拍照。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/12/2026101209184930904.jpg"
+      }
+    ],
+    "generated": "2026-10-12 20:00"
   }
 }
