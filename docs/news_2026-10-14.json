@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-14",
+  "weekday": "周三",
+  "morning": {
+    "news": [
+      {
+        "title": "蛋黄到底该不该吃？别被胆固醇误导",
+        "url": "https://news.cctv.com/2026/10/14/ARTIuxMVu8cwwNxMKTps7Zaa261014.shtml",
+        "time": "2026-10-14 07:55:35",
+        "summary": "很多人几乎天天吃鸡蛋，但蛋黄到底该不该吃？有人担心胆固醇高，吃鸡蛋只吃蛋清。可研究发现，适量吃鸡蛋有助延长寿命，降低心血管疾病死亡风险。那么，蛋黄真的会升高血脂吗？吃多少才合适？不同人群又该怎么吃？",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/14/2026101407253136797.jpg"
+      },
+      {
+        "title": "雅思考试连续多日被取消 主办方：增设两天免费专场",
+        "url": "https://news.cctv.com/2026/10/14/ARTIX3CBvjr4S7uLHuL71Z0p261014.shtml",
+        "time": "2026-10-14 07:50:29",
+        "summary": "从10月10日开始，雅思考试连续四天临时取消，涉及全科考试和单科重考，多地考生受到影响。对于受到雅思停考风波影响的全科考生来说，英国文化教育协会增设19日、20日两天免费专场考试供考生选择。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/14/2026101407495581569.jpg"
+      },
+      {
+        "title": "我驻英国使馆发言人就英情报官员涉华错误言论答记者问",
+        "url": "https://news.cctv.com/2026/10/14/ARTIgw0rIT2T2J4zQKHLJLkQ261014.shtml",
+        "time": "2026-10-14 07:48:42",
+        "summary": "中方一贯奉行不干涉内政原则，不对任何国家构成威胁，也没有兴趣干预英国内部事务。我们敦促英方情报部门停止炮制散布涉华虚假信息，停止误导民众、破坏中英关系。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/14/2026101407482954760.jpg"
+      },
+      {
+        "title": "时政新闻眼丨全国卫生与健康大会时隔十年再次召开，习近平强调这些重点",
+        "url": "https://news.cctv.com/2026/10/14/ARTIpL8h8PjnPtRFX0zXzXPZ261014.shtml",
+        "time": "2026-10-14 07:36:02",
+        "summary": "10月12日至13日，全国卫生与健康大会在北京召开。这是全国卫生与健康领域最高规格的大会时隔10年再次召开。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/14/2026101407351199270.jpg"
+      },
+      {
+        "title": "AI巨头称可攻克数学难题引学界争议",
+        "url": "https://news.cctv.com/2026/10/14/ARTImzEVbcW9yX4FE76bvhub261014.shtml",
+        "time": "2026-10-14 07:13:07",
+        "summary": "近日，美国开放人工智能研究中心OpenAI发布700多篇数学手稿，声称其模型能够解决上百个数学难题，此举在学界引发争议。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/14/2026101407124497771.jpg"
+      }
+    ],
+    "generated": "2026-10-14 08:00"
+  }
+}
