@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-16",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "【如何给人形机器人统一“语言”？】环境感知：让人形机器人“看懂”世界",
+        "url": "https://news.cctv.com/2026/10/16/ARTI76bb3oiLsjS425UWErQG261015.shtml",
+        "time": "2026-10-16 00:36:04",
+        "summary": "如果将人形机器人比作一个人，《人形机器人技术要求》系列国家标准恰好对应了从“基因定性”到“行为准则”的全方位规范。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/15/2026101522580851557.jpg"
+      },
+      {
+        "title": "日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+        "url": "https://news.cctv.com/2026/10/16/ARTIIzFgRvYaxA3qPbn63vND261016.shtml",
+        "time": "2026-10-16 00:25:21",
+        "summary": "俄罗斯驻日本大使馆15日在官网发布消息说，俄罗斯驻日本大使尼古拉·诺兹德廖夫14日在东京同日本外务省欧洲局长中村仁威举行会谈，驳回日方就一名日本记者因涉嫌间谍活动在俄罗斯被捕一事提出的交涉。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/16/2026101600244498459.jpg"
+      },
+      {
+        "title": "教育部成立雄安教师发展中心",
+        "url": "https://news.cctv.com/2026/10/16/ARTIjpXwy5cHGVbArMMXn5cD261016.shtml",
+        "time": "2026-10-16 00:20:27",
+        "summary": "10月14日，教育部在河北雄安成立雄安教师发展中心，整合北京市中小学和高校优质资源，打造集教研培训、数智赋能、研究引领的新型教师发展平台，探索跨区域教师协同发展新模式。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/16/2026101600200086237.jpg"
+      },
+      {
+        "title": "【第140届广交会开展】数说广交会 焕发新光彩",
+        "url": "https://news.cctv.com/2026/10/16/ARTIsTkG9uPH8qK4J5I46HRs261015.shtml",
+        "time": "2026-10-16 00:11:15",
+        "summary": "第140届广交会10月15日在广州开展，展期将持续到11月4日。本届广交会展品紧扣“新、绿、智”发展趋势，吸引来自全球的客商洽谈对接。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/15/2026101522443567836.jpg"
+      },
+      {
+        "title": "一场无人伤亡的车损事故却安排他人“认驾” 保险能拒赔吗？",
+        "url": "https://news.cctv.com/2026/10/16/ARTIVZq2uX5qqpaN38HPmL7u261016.shtml",
+        "time": "2026-10-16 00:07:15",
+        "summary": "一场无人伤亡的车损事故发生后，报警、报险、有人留守，看似处置周全，可实际驾驶人已经离场，留下的是冒充驾驶人“顶上去”的同事。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/10/16/2026101600045233032.jpg"
+      }
+    ],
+    "generated": "2026-10-16 08:00"
+  }
+}
