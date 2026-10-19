@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-20",
+  "weekday": "周二",
+  "morning": {
+    "news": [
+      {
+        "title": "“无接触”交通事故 如何定责和防范？",
+        "url": "https://news.cctv.com/2026/10/20/ARTICr2eeOZmpgMh0chSv33k261019.shtml",
+        "time": "2026-10-20 01:34:32",
+        "summary": "日常出行中，有些驾驶员在遇到“无接触”交通事故时，往往存在这样一个常见的认知误区，以为“没撞到就不需要负责”，其实不一定。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/19/2026101923332948671.jpg"
+      },
+      {
+        "title": "医保钱包2.0版上线 个人账户跨省共济落地全国",
+        "url": "https://news.cctv.com/2026/10/20/ARTIFqQwygTdmG4hayAWBLbD261020.shtml",
+        "time": "2026-10-20 00:45:13",
+        "summary": "新版医保钱包由过去省内使用扩展到支持跨省使用，从就医购药扩展到城乡居民的医保和长期护理保险参保缴费，进一步盘活共济人沉淀的个账资金，减轻被共济人异地就医经济负担。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/20/2026102000371268911.jpeg"
+      },
+      {
+        "title": "国务院学位办发布意见 5个专业推行用实践成果申请硕博学位",
+        "url": "https://news.cctv.com/2026/10/20/ARTIjaKaNyVu8cUsajfKSjIJ261020.shtml",
+        "time": "2026-10-20 00:34:20",
+        "summary": "今年毕业季，多所高校扩大了实践成果申请专业学位的试点，部分硕博研究生不用撰写传统学位论文，而是凭实践成果顺利获得学位。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/20/2026102000334921755.jpg"
+      },
+      {
+        "title": "感知中国活力｜我国加快建设沿边沿海“黄金大外环”",
+        "url": "https://jingji.cctv.com/2026/10/20/ARTIKziKGuDvGjiQmyi5ewJR261019.shtml",
+        "time": "2026-10-20 00:23:45",
+        "summary": "“十五五”时期，我国将全面贯通沿边国道219、331和沿海国道228三条陆路骨干通道，形成一条贯通国家沿边沿海的“黄金大外环”。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/19/2026101923225953493.jpg"
+      },
+      {
+        "title": "9月70城房价数据显示楼市回稳态势增强",
+        "url": "https://jingji.cctv.com/2026/10/20/ARTIwgp6QK1mN6DeQ0cOf4WX261020.shtml",
+        "time": "2026-10-20 00:14:41",
+        "summary": "国家统计局19日公布的数据显示，9月份，70个大中城市中，一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅均收窄。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/20/2026102000123722626.jpg"
+      }
+    ],
+    "generated": "2026-10-20 08:00"
+  }
+}
