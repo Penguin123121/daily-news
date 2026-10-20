@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-21",
+  "weekday": "周三",
+  "morning": {
+    "news": [
+      {
+        "title": "我国自主研制的极地船舶“心脏”下线",
+        "url": "https://news.cctv.com/2026/10/21/ARTIll9EvEIwSFOSdlL40u5P261020.shtml",
+        "time": "2026-10-21 00:34:57",
+        "summary": "我国实船应用的大功率极地破冰型吊舱推进器，10月20日在上海长兴岛倍豪船舶动力“大白鲸”工厂下线，我国极地船舶核心装备自主研制实现重要突破。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/20/2026102023334033933.jpg"
+      },
+      {
+        "title": "科学认知骨质疏松 别让骨量悄然流失",
+        "url": "https://news.cctv.com/2026/10/21/ARTIIYvrtzAjYjVUYM6zEMmf261020.shtml",
+        "time": "2026-10-21 00:11:54",
+        "summary": "过去大家普遍认为骨质疏松只是老年人的问题，但现在骨量透支呈现年轻化趋势。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/20/2026102023051253919.jpg"
+      },
+      {
+        "title": "AI+教育，“加”什么，如何“加”",
+        "url": "https://news.cctv.com/2026/10/21/ARTIFrlsUIAm2PJi7ps2APJe261021.shtml",
+        "time": "2026-10-21 00:11:47",
+        "summary": "从学科专业主动调整，到课堂教学深度融入，再到数据与算法应用引发伦理之问，AI技术在方方面面改变着教育的底层逻辑与样态。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/21/2026102100094959858.jpg"
+      },
+      {
+        "title": "致敬防灾逆行者 龚宝冬追记一等功、11名同事获记功嘉奖",
+        "url": "https://people.cctv.com/2026/10/20/ARTIGNt4F8OCBp36QwLkzIfe261020.shtml",
+        "time": "2026-10-20 23:06:20",
+        "summary": "10月20日，应急管理部发布《关于给予龚宝冬等12名同志奖励的决定》。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/20/2026102023051520086.jpg"
+      },
+      {
+        "title": "长征文物资源家底基本摸清",
+        "url": "https://news.cctv.com/2026/10/20/ARTIUdI9ssttlWLRlMtV1GlH261020.shtml",
+        "time": "2026-10-20 23:03:17",
+        "summary": "记者从国家文物局了解到，我国长征文物资源家底基本摸清。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/20/2026102023022971548.jpg"
+      }
+    ],
+    "generated": "2026-10-21 08:00"
+  }
+}
