@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-29",
+  "weekday": "周四",
+  "morning": {
+    "news": [
+      {
+        "title": "AI加速网络攻防 防守如何跟上？",
+        "url": "https://news.cctv.com/2026/10/29/ARTIjgW8KT609SRXw499LG4E261028.shtml",
+        "time": "2026-10-29 02:05:58",
+        "summary": "网络安全公司监测到，全球相关网络攻击尝试已达到数百万次。引发这场风波的，是全球大量网站共同使用的一项基础技术——PHP，被发现存在严重安全漏洞。一个看似不起眼的软件漏洞，为何能牵动全球互联网？人工智能的介入，对网络安全又意味着什么？",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/10/28/2026102823282067603.jpg"
+      },
+      {
+        "title": "西班牙首相宣布为列车相撞事故遇难者全国哀悼三天",
+        "url": "https://news.cctv.com/2026/10/29/ARTIujen3iaEARuueej0R6nv261028.shtml",
+        "time": "2026-10-29 02:05:49",
+        "summary": "西班牙首相桑切斯28日宣布，自29日起全国哀悼三天，悼念列车相撞事故遇难者。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/28/2026102823255873669.jpg"
+      },
+      {
+        "title": "全国首个AI服务一条街开放 机器人“租着用 按图造”",
+        "url": "https://news.cctv.com/2026/10/29/ARTI7Ormy10a8uqiuaCa2UmO261028.shtml",
+        "time": "2026-10-29 02:05:40",
+        "summary": "机器人被誉为“制造业皇冠顶端的明珠”，是“十五五”规划纲要明确的战略性新兴产业之一。今年上半年，我国人形机器人整机产品突破400款，产量超4万台，预计全年将突破10万台。近日，全国首个AI服务一条街在深圳龙岗正式开放。从看展、体验，到租赁服务，再到一张图纸造机器人，完整产业链向所有人敞开。来看记者的探访。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/28/2026102823181621984.jpg"
+      },
+      {
+        "title": "文化中国行丨从大山绣坊到世界舞台的中国“高定”",
+        "url": "https://news.cctv.com/2026/10/29/ARTIxXJSd1QMeqC4fRekprCH261028.shtml",
+        "time": "2026-10-29 01:52:39",
+        "summary": "2026年7月，身着贵州遵义打造的“鹡宇鸟”礼服的遵义姑娘李刘宇，代表中国澳门登上波兰跨国小姐总决赛T台，摘得Top Model全球单项冠军，让来自大山的苗族刺绣惊艳国际赛场。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/28/2026102822414215937.jpg"
+      },
+      {
+        "title": "沙漠海鲜又上新了！盐碱水里养出大生蚝",
+        "url": "https://news.cctv.com/2026/10/29/ARTIQyNStyeim39XOMKXnLi4261028.shtml",
+        "time": "2026-10-29 01:20:04",
+        "summary": "眼下正值深秋，沙漠水产迎来丰收季。这两年，沙漠鲈鱼、沙漠螃蟹等水产品走俏市场。在地处塔克拉玛干沙漠西北缘的阿拉尔市，当地依托独特的自然地理条件，今年又首次成功养殖了一个新的海鲜品种。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/28/2026102822083165722.jpg"
+      }
+    ],
+    "generated": "2026-10-29 08:00"
+  }
+}
