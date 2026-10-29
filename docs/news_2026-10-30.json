@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-30",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "多所高校内出现这种“小房子” 学生：太实用！",
+        "url": "https://news.cctv.com/2026/10/30/ARTI17xxkNKEOUIxggmmyEiC261029.shtml",
+        "time": "2026-10-30 02:10:38",
+        "summary": "多所高校在图书馆布设“静音舱”，能通话、能面试、能研讨，小空间实现大用处。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/29/2026102922092965224.jpg"
+      },
+      {
+        "title": "闪评︱峰会前夕改口 欧盟为何放弃加拿大 “联席成员”？",
+        "url": "https://news.cctv.com/2026/10/30/ARTIs26Whd8IDT2CbcnNzvOd261029.shtml",
+        "time": "2026-10-30 01:43:32",
+        "summary": "当地时间10月29日，为期两天的欧盟-加拿大峰会将在加拿大东部城市蒙特利尔开始举行，双方计划发表联合声明，进一步深化伙伴关系。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/29/2026102921423721612.jpg"
+      },
+      {
+        "title": "转换口勿乱用！电动自行车违规充电引发火灾",
+        "url": "https://news.cctv.com/2026/10/30/ARTI3q9D9ovOQ0mdPdsFR8Ef261029.shtml",
+        "time": "2026-10-30 01:27:15",
+        "summary": "随着新能源汽车逐渐增多，很多小区都建设了专用充电桩，然而，部分电动自行车会通过一些“充电神器”，借用汽车充电桩充电，看似简单的借用，背后却隐藏着极大的安全隐患。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/29/2026102922142540721.jpg"
+      },
+      {
+        "title": "能识别作业违规、能发现意外情况 AI巡检机器人助力进博会安全",
+        "url": "https://news.cctv.com/2026/10/30/ARTIe0N25T5q8Q8jogffSnOc261029.shtml",
+        "time": "2026-10-30 01:05:49",
+        "summary": "11月5日至10日，第九届进博会将在上海举办。目前进博会各场馆都在进行施工搭建，为助力工作安全有序推进，昨天（28日），一台高校自研的AI巡检机器人上岗工作。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/29/2026102922030693091.jpg"
+      },
+      {
+        "title": "两股冷空气接连影响我国 这份降温日历请查收",
+        "url": "https://news.cctv.com/2026/10/30/ARTIFD4BmVeNXWAulGsirkCB261029.shtml",
+        "time": "2026-10-30 00:56:41",
+        "summary": "气温过山车即将发动，未来几天，南北方多地气温变化快、起伏大，请系好“穿衣安全带”。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/29/2026102921474373924.jpg"
+      }
+    ],
+    "generated": "2026-10-30 08:00"
+  }
+}
