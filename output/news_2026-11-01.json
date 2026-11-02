@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-01 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "山西运城七彩盐湖喷淋设施调控卤水盐度",
+        "url": "https://photo.cctv.com/2026/11/01/PHOAOVGSHFGoi36ghbUafpOV261101.shtml",
+        "time": "2026-11-01 11:00:53",
+        "summary": "山西运城七彩盐湖喷淋设施正在调控卤水盐度。当地依托“提浓养卤、排淡保卤”原理，通过喷淋、水循环精准控盐，激活嗜盐生物，绘就绚丽的七彩盐池画卷。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/01/2026110110280549654.jpg"
+      },
+      {
+        "title": "内蒙古赤峰：辉屯塔拉沙湖湿地秋景色胜 候鸟翩跹",
+        "url": "https://photo.cctv.com/2026/11/01/PHOA0HO8aEfS9E0lfucvFjEh261101.shtml",
+        "time": "2026-11-01 10:59:04",
+        "summary": "内蒙古赤峰翁牛特旗辉屯塔拉沙湖湿地迎来深秋时节，连绵沙山与澄澈碧水、绚烂秋林交相辉映，鸿雁、白天鹅等候鸟如约而至，在水面悠然游弋、翩跹起舞，展现出一幅沙水共生、万物和谐的自然生态画卷。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/01/2026110110262727532.jpg"
+      },
+      {
+        "title": "江西宜丰：晚稻收获忙 迎秋收丰景",
+        "url": "https://photo.cctv.com/2026/11/01/PHOAE6RNQhqFqZI3nJ5Koq6t261101.shtml",
+        "time": "2026-11-01 10:52:25",
+        "summary": "江西宜春宜丰县石市镇何家村的高标准农田晚稻成熟，村民抢抓晴好天气开展机械化收割与运输作业，确保粮食颗粒归仓。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/01/2026110110245245002.jpg"
+      },
+      {
+        "title": "河北张家口：2026-2027雪季崇礼开板节启动",
+        "url": "https://photo.cctv.com/2026/11/01/PHOAcj2M9lLNzOMmdL2HeWCu261101.shtml",
+        "time": "2026-11-01 10:44:39",
+        "summary": "10月31日，2026—2027雪季崇礼开板节在万龙滑雪场启幕。当日，崇礼万龙、云顶、太舞、富龙、翠云山银河、雪如意、阿那亚拾雪川、多乐美地、长城岭九大雪场全域联动，创新探索“冰雪运动+雪地火锅”融合新模式，正式开启崇礼2026-2027全新雪季，持续释放后奥运时代冰雪文旅新活力。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/01/2026110110231036621.jpg"
+      },
+      {
+        "title": "《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》单行本出版",
+        "url": "https://news.cctv.com/2026/11/01/ARTIDmDNdIsUN5wqUUNijIUK261101.shtml",
+        "time": "2026-11-01 19:52:24",
+        "summary": "《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》单行本，已由人民出版社出版，即日起在全国新华书店公开发行。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/01/2026110119134592502.jpg"
+      }
+    ],
+    "generated": "2026-11-01 20:00"
   }
 }

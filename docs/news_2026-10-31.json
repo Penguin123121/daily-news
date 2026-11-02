@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-10-31 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "河南洛阳：黄河小浪底层林尽染 秋景如画",
+        "url": "https://photo.cctv.com/2026/10/31/PHOAy6LVpIJwO1PBgSkdSqCe261031.shtml",
+        "time": "2026-10-31 10:33:07",
+        "summary": "河南洛阳，秋日的黄河小浪底山林五彩斑斓，红叶漫山。大坝雄峙，河湖澄澈，多彩秋色与水利工程相融，尽显生态之美。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/31/2026103109570362766.jpg"
+      },
+      {
+        "title": "2026世界顶尖科学家论坛在上海举行",
+        "url": "https://photo.cctv.com/2026/10/31/PHOAzcgXERVMP0amHOPcSMU9261031.shtml",
+        "time": "2026-10-31 10:37:27",
+        "summary": "10月30日，2026世界顶尖科学家论坛在上海临港中心举行。本届论坛为期三天，主题为“范式变革：科学突破的下一个十年”，汇聚了33位诺贝尔奖、图灵奖、菲尔兹奖等国际大奖得主，以及海内外院士、青年科学家与产业专家，围绕人工智能、生物医药、量子科学、未来能源等前沿方向展开交流研讨。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/31/2026103110033767873.jpg"
+      },
+      {
+        "title": "银川：“风光资源”互补 助力新型电网建设",
+        "url": "https://photo.cctv.com/2026/10/31/PHOA4QLNLE1IyRuFFCYkgC9Z261031.shtml",
+        "time": "2026-10-31 10:35:18",
+        "summary": "位于银川永宁县贺兰山东麓戈壁滩上的风电项目建设加速推进。作为国家“西电东送”核心送端和全国首个新能源综合示范区，宁夏立足风光资源优势，在沙漠、戈壁、荒漠地区大力发展光伏、风电、新型储能等清洁能源产业，积极构建新型电网，打通绿电消纳与输送通道，筑牢秋冬季能源保供防线。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/10/31/2026103110001215883.jpg"
+      },
+      {
+        "title": "广西桂林：万亩柿子迎丰收",
+        "url": "https://photo.cctv.com/2026/10/31/PHOA1LrbOP0lGiVN4xA0h9WK261031.shtml",
+        "time": "2026-10-31 10:30:21",
+        "summary": "广西桂林平乐县种植的18万亩柿子迎来丰收季，果农们趁着晴好天气采摘、晾晒、装运柿子，忙着供应市场，处处一派忙碌的丰收景象。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/10/31/2026103109542553407.jpg"
+      },
+      {
+        "title": "我国月球探测工程登月阶段任务扎实推进",
+        "url": "https://news.cctv.com/2026/10/31/ARTIq897838ImFBUh0W0b3OZ261031.shtml",
+        "time": "2026-10-31 19:59:09",
+        "summary": "我国月球探测工程登月阶段任务各项研制建设工作正在扎实推进，拟于载人登月任务前安排梦舟载人飞船和揽月着陆器无人飞行任务。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/10/31/2026103119545625303.jpg"
+      }
+    ],
+    "generated": "2026-10-31 20:00"
   }
 }

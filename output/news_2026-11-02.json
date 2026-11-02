@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-02 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "埃塞俄比亚：又到咖啡采收季",
+        "url": "https://photo.cctv.com/2026/11/02/PHOAay5VCuEQwSXkmQSj5Eow261102.shtml",
+        "time": "2026-11-02 12:14:36",
+        "summary": "10月31日，咖农在埃塞俄比亚南部咖法地区的一处咖啡种植园里集合，准备开始采收工作。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/02/2026110212134433421.jpg"
+      },
+      {
+        "title": "在四川唐家河邂逅山野“精灵”",
+        "url": "https://photo.cctv.com/2026/11/02/PHOA2nE1ekL7oqKRjvgS2zB6261102.shtml",
+        "time": "2026-11-02 12:17:44",
+        "summary": "行走在密林间，人们可与山野“精灵”不期而遇。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/02/2026110212160220634.jpg"
+      },
+      {
+        "title": "重庆荣昌：湖畔柑橘飘香",
+        "url": "https://photo.cctv.com/2026/11/02/PHOAelmw0NjY0eiwZreXSXq6261102.shtml",
+        "time": "2026-11-02 12:11:20",
+        "summary": "金秋时节，重庆市荣昌区仁义镇三奇湖沿岸柑橘迎来采摘季。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/02/2026110212105323498.jpg"
+      },
+      {
+        "title": "新疆阜康：10万千瓦熔盐塔式光热发电项目并网",
+        "url": "https://photo.cctv.com/2026/11/02/PHOAsllmud9Bu6wVVfjPefUQ261102.shtml",
+        "time": "2026-11-02 12:03:33",
+        "summary": "该项目与90万千瓦光伏配套协同，构建起“光热+光伏”联合运行模式。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/02/2026110211570262985.jpg"
+      },
+      {
+        "title": "应习近平邀请 加蓬总统将访华",
+        "url": "https://news.cctv.com/2026/11/02/ARTI3b7Q9QVbdqvdfFxPtXTB261102.shtml",
+        "time": "2026-11-02 19:58:05",
+        "summary": "应国家主席习近平邀请，加蓬共和国总统布里斯·克洛泰尔·奥利吉·恩圭马将于11月3日至7日对中国进行国事访问。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/02/2026110219551424956.jpg"
+      }
+    ],
+    "generated": "2026-11-02 20:00"
   }
 }
