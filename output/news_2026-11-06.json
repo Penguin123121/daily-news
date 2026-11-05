@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-06",
+  "weekday": "周五",
+  "morning": {
+    "news": [
+      {
+        "title": "联合国安理会通过主席声明 强调加强外交在武装冲突中的作用",
+        "url": "https://news.cctv.com/2026/11/06/ARTIEvQDdxINXcvfqFdgXSpv261106.shtml",
+        "time": "2026-11-06 03:33:37",
+        "summary": "当地时间11月5日，联合国安理会一致通过“加强外交在武装冲突中的作用”的主席声明。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/06/2026110603320177927.jpg"
+      },
+      {
+        "title": "四川警方通报“男子饮酒时用美工刀伤人”：伤者无生命危险",
+        "url": "https://news.cctv.com/2026/11/06/ARTIMhbeXcjggwLmIn1eHUoU261106.shtml",
+        "time": "2026-11-06 03:16:58",
+        "summary": "据“翠屏公安”公众号消息，11月5日19时许，四川宜宾市公安局翠屏区分局接群众报警称，辖区某街道有人打架。接警后，民警第一时间赶赴现场，当场将打人者控制，并及时将伤者送医救治。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/06/2026110603145569693.jpg"
+      },
+      {
+        "title": "新疆和田地区和康县发生4.8级地震",
+        "url": "https://news.cctv.com/2026/11/06/ARTIDLckgd7dd1314NPrvntG261106.shtml",
+        "time": "2026-11-06 01:16:15",
+        "summary": "据中国地震台网正式测定，11月6日0时56分在新疆和田地区和康县发生4.8级地震，震源深度60公里，震中位于北纬35.64度，东经78.14度。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/06/2026110603081241145.jpg"
+      },
+      {
+        "title": "欧盟：判断欧洲多起航空威胁事件是否关联为时尚早",
+        "url": "https://news.cctv.com/2026/11/05/ARTIDeOSyTMO4ifjOasFWDaR261105.shtml",
+        "time": "2026-11-05 23:35:32",
+        "summary": "针对欧洲多架客机遭炸弹威胁事件，欧盟委员会5日表示，目前就已报告的事件是否存在关联作出结论为时尚早，各国相关部门仍在开展调查。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/05/2026110523350678459.jpg"
+      },
+      {
+        "title": "瑞典将实施6个月申根区内部边境管控以应对安全威胁",
+        "url": "https://news.cctv.com/2026/11/05/ARTIxwoJSN2zp5hIHLfEJryg261105.shtml",
+        "time": "2026-11-05 23:28:18",
+        "summary": "瑞典政府5日宣布，自11月12日起实施为期6个月的申根区内部边境管控，以应对“公共秩序和国内安全面临的严重威胁”。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/05/2026110523275476228.jpg"
+      }
+    ],
+    "generated": "2026-11-06 08:00"
+  }
+}
