@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-07",
+  "weekday": "周六",
+  "morning": {
+    "news": [
+      {
+        "title": "10月中国电商物流需求平稳 物流供给保障有力",
+        "url": "https://news.cctv.com/2026/11/07/ARTIJgk5NF7nIzuTgidz6sZv261107.shtml",
+        "time": "2026-11-07 07:48:59",
+        "summary": "中国物流与采购联合会发布，10月份中国电商物流指数为112.1点，环比上升0.2点。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/07/2026110707473126025.jpg"
+      },
+      {
+        "title": "自私的邻居",
+        "url": "https://news.cctv.com/2026/11/07/ARTIkBRyl16OR3i6xYQkWXY0261107.shtml",
+        "time": "2026-11-07 07:48:21",
+        "summary": "厨房天花板渗出污水，竟是楼上邻居私自将厨房改成厕所；院子外的杂物突然起火，奋力救火的邻居竟是始作俑者。原本邻里间两起小纠纷，却为何引爆大冲突？",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/07/2026110707480339589.jpg"
+      },
+      {
+        "title": "功能花哨操作复杂 家电“伪智能”如何破局",
+        "url": "https://news.cctv.com/2026/11/07/ARTIQOOmJSCdZgcVeIefdptf261107.shtml",
+        "time": "2026-11-07 07:44:15",
+        "summary": "不知道您有没有过这样的体验，高价买来的智能马桶、洗衣机、冰箱、空调、电视等家电产品，用户总是不得不下载各家电品牌的专属App，还得在其中切换几十种工作模式。如何破解家用电器“伪智能”困局？",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/07/2026110707435725731.jpg"
+      },
+      {
+        "title": "坚定信心接续奋斗 在新征程上创造新的历史伟业（学习贯彻党的二十届五中全会精神）",
+        "url": "https://news.cctv.com/2026/11/07/ARTI6oB2P7Om4NkPscOJduJG261107.shtml",
+        "time": "2026-11-07 07:39:50",
+        "summary": "连日来，广大知识分子和青年学生兴起学习贯彻党的二十届五中全会精神的热潮。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/07/2026110707390693489.jpg"
+      },
+      {
+        "title": "“十五五”时期 我国用电需求每年新增3个上海市用电量",
+        "url": "https://news.cctv.com/2026/11/07/ARTIQCeS1TG5XdPNKh8RQfez261107.shtml",
+        "time": "2026-11-07 07:29:30",
+        "summary": "今年夏天，全国电力负荷再创历史新高，同时算力产业等新兴产业蓬勃发展带动用电量快速增长。“十五五”时期，我国用电需求仍将刚性增长，预计年均增量将达到6000亿度左右，相当于每年新增3个上海市的用电量。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/07/2026110707291467966.jpg"
+      }
+    ],
+    "generated": "2026-11-07 08:00"
+  }
+}
