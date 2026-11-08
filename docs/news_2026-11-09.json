@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-09",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "非国大在南非地方选举中保住第一大党地位",
+        "url": "https://news.cctv.com/2026/11/09/ARTIEXc9lZFLEH45u6ppthkb261109.shtml",
+        "time": "2026-11-09 01:37:50",
+        "summary": "南非独立选举委员会8日公布计票结果，非洲人国民大会（非国大）在地方政府选举中保住第一大政党地位，得票率为30.76%，较2021年地方政府选举下跌约15个百分点。民主联盟得票率为24.64%。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/09/2026110901363046999.jpg"
+      },
+      {
+        "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
+        "url": "https://news.cctv.com/2026/11/09/ARTIjqusDh9VoFJMNo5NRJgM261109.shtml",
+        "time": "2026-11-09 01:32:13",
+        "summary": "当地时间8日，伊朗军队海军称，当天中午前，一艘在霍尔木兹海峡东部禁航区航行的违规油轮触雷起火，该油轮此前关闭了导航系统。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/09/2026110901314098374.jpg"
+      },
+      {
+        "title": "塞尔维亚新一届议会定于11月17日举行首次会议",
+        "url": "https://news.cctv.com/2026/11/09/ARTISDi5RIAo3zEkljixPVz3261109.shtml",
+        "time": "2026-11-09 01:28:44",
+        "summary": "据塞尔维亚国民议会发布的消息，塞国民议会议长布尔纳比奇8日宣布，塞尔维亚第十五届国民议会首次会议将于17日举行。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/09/2026110901282295634.jpg"
+      },
+      {
+        "title": "埃及列车脱轨事故已致4死88伤 暂无中国公民伤亡报告",
+        "url": "https://news.cctv.com/2026/11/08/ARTIVNNPxvct9MpUNA1dN0ZU261108.shtml",
+        "time": "2026-11-08 23:25:43",
+        "summary": "埃及卫生部8日发表声明说，当天埃及吉萨省发生客运列车车厢脱轨事故，已造成4人死亡、88人受伤。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/08/2026110823244743423.jpg"
+      },
+      {
+        "title": "以总统赫尔佐格正式授权埃森科特组建新一届政府",
+        "url": "https://news.cctv.com/2026/11/08/ARTIdYTpfDvL0VXXbtgMtG8B261108.shtml",
+        "time": "2026-11-08 23:23:18",
+        "summary": "当地时间8日17时（北京时间8日23时），以色列总统赫尔佐格正式授权正直党领导人、以军前总参谋长埃森科特组建新一届政府。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/08/2026110823221720029.jpg"
+      }
+    ],
+    "generated": "2026-11-09 08:00"
+  }
+}
