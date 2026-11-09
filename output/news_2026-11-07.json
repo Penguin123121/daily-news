@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-07 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "内蒙古赤峰：初冬梯田美如画",
+        "url": "https://photo.cctv.com/2026/11/07/PHOALYOnspyaLzCys9mIcGAG261107.shtml",
+        "time": "2026-11-07 09:57:59",
+        "summary": "11月6日，内蒙古赤峰，初冬时节，红山区文钟镇南大营子村收获后的田野美如画卷。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/07/2026110709570541486.jpg"
+      },
+      {
+        "title": "济南趵突泉金秋菊展进入最佳观赏期",
+        "url": "https://photo.cctv.com/2026/11/07/PHOAt4au0t8jEPrK8jdOt6uf261107.shtml",
+        "time": "2026-11-07 09:56:16",
+        "summary": "11月6日，济南，第47届趵突泉金秋菊展在趵突泉景区进入最佳观赏期。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/07/2026110709534597819.jpg"
+      },
+      {
+        "title": "第二艘国产大型邮轮“爱达·花城号”在上海正式交付",
+        "url": "https://photo.cctv.com/2026/11/07/PHOA6iqXJ052htO4bHPk6Ic7261107.shtml",
+        "time": "2026-11-07 09:53:04",
+        "summary": "11月6日，第二艘国产大型邮轮“爱达·花城号”在上海正式交付，随后之后将从广州南沙国际邮轮母港开启首航季。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/07/2026110709513660209.jpg"
+      },
+      {
+        "title": "山西洪洞：汾河国家湿地公园迎来首批越冬大天鹅",
+        "url": "https://photo.cctv.com/2026/11/07/PHOAZxdZBy1ZWOgCvy9om3qJ261107.shtml",
+        "time": "2026-11-07 09:50:45",
+        "summary": "11月6日，山西洪洞，汾河国家湿地公园迎来首批一百多只越冬大天鹅。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/07/2026110709483931307.jpg"
+      },
+      {
+        "title": "男子被雇主扇9次耳光后急性脑梗死，昏迷14个月后离世 雇主被判担责七成赔84万余元",
+        "url": "https://news.cctv.com/2026/11/07/ARTIFc3fjbpsahYoD9WIB1Pw261107.shtml",
+        "time": "2026-11-07 19:59:02",
+        "summary": "因拖欠工资和辞退问题起争执，59岁男子马某被雇主秦某扇了九次耳光。判决书还载明，2024年5月15日至5月27日，马某曾在某医院住院，出院诊断为多发性脑梗死、高血压病3级（很高危）。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/07/2026110719570097196.jpg"
+      }
+    ],
+    "generated": "2026-11-07 20:00"
   }
 }

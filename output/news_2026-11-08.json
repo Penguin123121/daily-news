@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-08 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "“中国雪乡”加紧筹备迎开园",
+        "url": "https://photo.cctv.com/2026/11/08/PHOArVttQdZaUXXQtLEocHL2261108.shtml",
+        "time": "2026-11-08 10:51:43",
+        "summary": "近日，位于黑龙江省牡丹江市的“中国雪乡”景区冬季旅游开园各项筹备工作正紧锣密鼓推进中。今年雪乡重点打造全新花灯观赏区，将冰雪风光、东北民俗与彩灯技艺融合呈现。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/08/2026110810153052910.jpg"
+      },
+      {
+        "title": "花开冬日别样红",
+        "url": "https://photo.cctv.com/2026/11/08/PHOAZae7aSKAcQwu9fbq06Sr261108.shtml",
+        "time": "2026-11-08 10:51:55",
+        "summary": "立冬时节，广西南宁市青秀山风景区迎来冬季赏花季，推出赏花观演、非遗市集、国风互动、科普研学等系列文旅活动。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/08/2026110809223666679.jpg"
+      },
+      {
+        "title": "河北承德：立冬时节迎来降雪天气",
+        "url": "https://photo.cctv.com/2026/11/08/PHOAFmcoPqSMUODnq3rLFcDf261108.shtml",
+        "time": "2026-11-08 10:51:34",
+        "summary": "11月7日，立冬时节，河北承德迎来中到大雪天气。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/08/2026110810303934147.jpg"
+      },
+      {
+        "title": "西藏沙琼村：兴边富民 林果生香",
+        "url": "https://photo.cctv.com/2026/11/08/PHOAc24Y2Nis18UMfNiicoEq261108.shtml",
+        "time": "2026-11-08 10:51:48",
+        "summary": "近年来，西藏林芝市下察隅镇沙琼村依托河谷富饶的自然条件，因地制宜发展猕猴桃、脆柿等特色林果产业，走出了一条生态优先、兴边富民的发展路子。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/08/2026110810075652599.jpg"
+      },
+      {
+        "title": "最后一位开国将军王扶之逝世",
+        "url": "https://people.cctv.com/2026/11/08/ARTI5ACz7TBx3YNgcNTZmzLe261108.shtml",
+        "time": "2026-11-08 19:58:08",
+        "summary": "11月7日，原乌鲁木齐军区副司令员王扶之走完一个多世纪的人生征程，病逝于辽宁大连，享年104岁。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/08/2026110819573147288.png"
+      }
+    ],
+    "generated": "2026-11-08 20:00"
   }
 }

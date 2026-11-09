@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-09 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "落雪迎冬",
+        "url": "https://photo.cctv.com/2026/11/09/PHOA5CDVOtntzax9BnxFe0oa261109.shtml",
+        "time": "2026-11-09 11:01:20",
+        "summary": "立冬过后，部分地区出现降雪天气，人们在雪后来到户外、踏雪游玩。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/09/2026110910045645507.jpg"
+      },
+      {
+        "title": "在故宫外遇见金色银杏叶",
+        "url": "https://photo.cctv.com/2026/11/09/PHOAGqSr9wu2QagWpHArqIhL261109.shtml",
+        "time": "2026-11-09 11:01:29",
+        "summary": "秋冬之交，故宫外银杏叶金黄，景色如画。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/09/2026110910191017541.jpg"
+      },
+      {
+        "title": "银川犀牛湖迎来迁徙天鹅",
+        "url": "https://photo.cctv.com/2026/11/09/PHOAAHtEvEl0Z4IRjPV8QcGc261109.shtml",
+        "time": "2026-11-09 11:01:35",
+        "summary": "近日，宁夏银川市犀牛湖迎来迁徙天鹅在此栖息、觅食。有“塞上湖城”之称的银川，近年来通过湿地生态恢复治理、迁徙候鸟保护等措施，湖泊湿地环境明显改善，每年秋冬季节吸引大批候鸟来此停歇。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/09/2026110910294341046.jpg"
+      },
+      {
+        "title": "江西靖安：雨后乡村美如画",
+        "url": "https://photo.cctv.com/2026/11/09/PHOAF1z6Nn25tdLrsFINswR8261109.shtml",
+        "time": "2026-11-09 11:01:40",
+        "summary": "11月8日，江西宜春，靖安县璪都镇集镇上空云雾缭绕，房屋建筑、阡陌道路与田园沃野相互映衬，构成一幅秀美的冬日乡村画卷。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/09/2026110910365536730.jpg"
+      },
+      {
+        "title": "铁路公安宣传检查并举 拧紧消防“安全阀”",
+        "url": "https://news.cctv.com/2026/11/09/ARTIN2OZDBeie9QXHBCJOYQm261109.shtml",
+        "time": "2026-11-09 19:56:05",
+        "summary": "今年11月9日是第35个全国消防日，11月为全国消防宣传月。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/09/2026110919522338566.jpg"
+      }
+    ],
+    "generated": "2026-11-09 20:00"
   }
 }
