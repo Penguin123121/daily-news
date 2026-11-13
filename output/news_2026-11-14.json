@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-14",
+  "weekday": "周六",
+  "morning": {
+    "news": [
+      {
+        "title": "俄外交部：俄美会晤未讨论欧洲参与乌克兰问题谈判事宜",
+        "url": "https://news.cctv.com/2026/11/14/ARTI03CSEexQkwBcyxPecik9261114.shtml",
+        "time": "2026-11-14 01:19:06",
+        "summary": "俄罗斯外交部发言人扎哈罗娃13日表示，俄方在与美国特使威特科夫和美国总统特朗普的女婿库什纳的会晤中，未讨论欧洲方面参与乌克兰问题谈判的事宜。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/14/2026111401185088795.jpg"
+      },
+      {
+        "title": "日本政府拟将未来五年防卫费总额提高至60万亿日元",
+        "url": "https://news.cctv.com/2026/11/14/ARTI3ZKQuIZqna4nbnIn3pOJ261114.shtml",
+        "time": "2026-11-14 00:38:28",
+        "summary": "据日本共同社13日报道，日本政府拟在未来五年大幅增加防卫费，考虑在今年底修订“安保三文件”时将2027至2031财年防卫费总额提高至60万亿日元（约合2.5万亿元人民币）。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/14/2026111400375280768.jpg"
+      },
+      {
+        "title": "新疆阿克苏地区库车市发生5.0级地震",
+        "url": "https://news.cctv.com/2026/11/14/ARTIzuHEVGLV7xrEujnUbQNa261114.shtml",
+        "time": "2026-11-14 00:37:34",
+        "summary": "据中国地震台网正式测定，11月14日0时17分在新疆阿克苏地区库车市发生5.0级地震，震源深度20公里，震中位于北纬42.22度，东经83.64度。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/14/2026111401151326365.jpg"
+      },
+      {
+        "title": "外交部：中国坚定敞开大门同世界共享发展机遇",
+        "url": "https://news.cctv.com/2026/11/14/ARTIWkiR47b7pEvKYqiKid52261114.shtml",
+        "time": "2026-11-14 00:33:06",
+        "summary": "外交部发言人毛宁13日表示，作为全球第二大消费和进口市场，中国连续九年举办进博会，坚定敞开大门同世界共享发展机遇。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/14/2026111400324452638.jpg"
+      },
+      {
+        "title": "国际能源署预计第四季度全球石油供应转向过剩",
+        "url": "https://news.cctv.com/2026/11/13/ARTIzJnw3q0yHfLbybUjdQkA261113.shtml",
+        "time": "2026-11-13 22:23:07",
+        "summary": "报告预计，2026年全球日均石油供应量同比将减少480万桶；2027年同比将增加660万桶，达到日均1.081亿桶。原油供应改善尚未缓解柴油等成品油的供应紧张局面，俄罗斯能源设施持续遭袭进一步加剧柴油供应压力。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/13/2026111322222039196.jpg"
+      }
+    ],
+    "generated": "2026-11-14 08:00"
+  }
+}
