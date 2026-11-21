@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-22",
+  "weekday": "周日",
+  "morning": {
+    "news": [
+      {
+        "title": "【中国第43次南极考察】“雪龙”号完成物资补给 前往南极中山站",
+        "url": "https://news.cctv.com/2026/11/21/ARTIkmKN9a2B0qpf9jFcsI6C261121.shtml",
+        "time": "2026-11-22 02:20:44",
+        "summary": "当地时间11月20日，“雪龙”号科考船在澳大利亚霍巴特港完成停靠补给，出发前往南极中山站。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/21/2026112123040797942.jpg"
+      },
+      {
+        "title": "伊朗称在波斯湾上空拦截并击中一架美军F-16战机",
+        "url": "https://news.cctv.com/2026/11/22/ARTI9OGq3zZmdI15kdvDcssi261121.shtml",
+        "time": "2026-11-22 01:20:03",
+        "summary": "当地时间21日，伊朗军队表示，20日晚间，部署在伊朗南部、隶属于军队的防空系统在波斯湾上空成功探测到一架美军F-16战机。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/21/2026112123183367308.jpg"
+      },
+      {
+        "title": "投资境外上市公司权益受损 投资者如何维权？",
+        "url": "https://news.cctv.com/2026/11/22/ARTIg7TRMDWuHGPwmjdu8O1z261121.shtml",
+        "time": "2026-11-22 00:57:23",
+        "summary": "符合条件的境外公司可以在港交所上市，如果内地投资者遭遇境外上市公司违规，导致投资损失，该如何维护自己的合法权益呢？来看具体案例。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/21/2026112123560416761.jpg"
+      },
+      {
+        "title": "“沙泉共生”守护记 如何让月牙泉“胖”回来？",
+        "url": "https://news.cctv.com/2026/11/22/ARTII89vYr0YgOq0AQBa4rHp261121.shtml",
+        "time": "2026-11-22 00:52:49",
+        "summary": "月牙泉“止跌”之后，如何让水位“回升”？怎样补水？如何才能让月牙真正“胖”回来呢？",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/21/2026112123514282429.jpg"
+      },
+      {
+        "title": "《图书馆奇幻之旅》音乐会在津上演",
+        "url": "https://news.cctv.com/2026/11/22/ARTI5PPFLEpWeY2m9w1ietJN261121.shtml",
+        "time": "2026-11-22 00:46:12",
+        "summary": "11月21日，《“我们来演歌剧吧”——图书馆奇幻之旅》音乐会在天津茱莉亚学院上演。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/21/2026112121562911663.jpg"
+      }
+    ],
+    "generated": "2026-11-22 08:00"
+  }
+}
