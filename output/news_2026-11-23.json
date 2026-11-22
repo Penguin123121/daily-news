@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-23",
+  "weekday": "周一",
+  "morning": {
+    "news": [
+      {
+        "title": "国产大型邮轮“爱达·花城号”开启商业首航",
+        "url": "https://jingji.cctv.com/2026/11/23/ARTIQu0B83Ow4GOeLOV3BkPm261122.shtml",
+        "time": "2026-11-23 03:05:23",
+        "summary": "22日，第二艘国产大型邮轮“爱达·花城号”从广州南沙国际邮轮母港启航，正式开启商业首航。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/22/2026112222021045952.jpg"
+      },
+      {
+        "title": "城市观鸟地图上新 江苏南京、徐州等地迎来越冬候鸟",
+        "url": "https://news.cctv.com/2026/11/23/ARTIcTOdHRSAj6UYNcqydhPr261123.shtml",
+        "time": "2026-11-23 02:47:32",
+        "summary": "近期，江苏南京市进入观鸟季，各观鸟点迎来不少观鸟爱好者和市民游客。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/23/2026112300412860174.jpg"
+      },
+      {
+        "title": "“稳股市”组合拳来了 三项新政发布",
+        "url": "https://jingji.cctv.com/2026/11/23/ARTIVw5EXARW5XFo0FrhufC0261122.shtml",
+        "time": "2026-11-23 02:46:37",
+        "summary": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11月30日起施行。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/22/2026112221435859634.jpg"
+      },
+      {
+        "title": "演出+民俗+农特产品 多地冬季乡村游热度不减",
+        "url": "https://news.cctv.com/2026/11/23/ARTIxZvWxR67ko3b7SGGoDLX261122.shtml",
+        "time": "2026-11-23 02:34:38",
+        "summary": "虽然已经进入冬季，但是各地乡村文旅活动依然热度不减。",
+        "image": ""
+      },
+      {
+        "title": "橘猫冰箱贴走红！北京市属公园文创、暖饮上新",
+        "url": "https://news.cctv.com/2026/11/23/ARTI9ZChpe4ERx2fOmJOsjDe261122.shtml",
+        "time": "2026-11-23 02:30:03",
+        "summary": "记者从北京市公园管理中心获悉，北京“多彩京秋”系列生态文化活动在初冬时节依然吸引着大批市民与游客。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/22/2026112223263863289.jpg"
+      }
+    ],
+    "generated": "2026-11-23 08:00"
+  }
+}
