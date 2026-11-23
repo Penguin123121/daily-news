@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-21 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "杭州：初冬西湖景致秀美",
+        "url": "https://photo.cctv.com/2026/11/21/PHOAVdsoHdLtHyIkE2AvLix8261121.shtml",
+        "time": "2026-11-21 11:24:54",
+        "summary": "时值初冬，夕阳下的杭州西湖景区景色宜人，自然风光与城市建筑群和谐相融。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/21/2026112111104318688.jpg"
+      },
+      {
+        "title": "我国成功发射卫星互联网低轨30组卫星",
+        "url": "https://photo.cctv.com/2026/11/21/PHOAdSjrL2Y64Uq7GizbcGOu261121.shtml",
+        "time": "2026-11-21 11:25:00",
+        "summary": "11月20日19时59分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨30组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/21/2026112110435555608.jpg"
+      },
+      {
+        "title": "河北丰南：东方白鹳舞蹁跹",
+        "url": "https://photo.cctv.com/2026/11/21/PHOANiggF6hExn3fvTzZ8hxU261121.shtml",
+        "time": "2026-11-21 11:25:05",
+        "summary": "近日，大批东方白鹳飞抵河北省唐山市丰南区沿海地区，翔集阡陌，觅食休憩。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/21/2026112110300676474.jpg"
+      },
+      {
+        "title": "黑龙江齐齐哈尔：雪落仙洞山鹿群踏雪来",
+        "url": "https://photo.cctv.com/2026/11/21/PHOAFnn0GDRlZkNGGFgxEVJc261121.shtml",
+        "time": "2026-11-21 11:24:46",
+        "summary": "11月20日，黑龙江齐齐哈尔，拜泉县黑龙江仙洞山梅花鹿国家级自然保护区内，成群梅花鹿漫步林间雪地，雄鹿、母鹿与幼鹿悠然觅食，暖阳洒落山林，灵动身影勾勒出一幅冬日和谐生态画卷。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/21/2026112111210773581.jpg"
+      },
+      {
+        "title": "北京警方抓获一名为电诈架设虚拟拨号设备嫌疑人",
+        "url": "https://news.cctv.com/2026/11/21/ARTIk2WIk88MChG8znao0dV9261121.shtml",
+        "time": "2026-11-21 19:52:06",
+        "summary": "男子网上求职，因追求高薪回报，成为境外电信网络诈骗分子帮凶，专门选择老年群体家中座机安装虚拟拨号设备，导致事主被骗18万元。近日，北京通州警方依托平安行动“冬季攻势”，成功抓获一名涉嫌帮信罪的犯罪嫌疑人。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/21/2026112119504911173.jpg"
+      }
+    ],
+    "generated": "2026-11-21 20:00"
   }
 }

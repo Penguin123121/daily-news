@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-22 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "浙江德清：下渚湖冬捕 品鱼汤饭",
+        "url": "https://photo.cctv.com/2026/11/22/PHOAFRFFOsNQ0aW1f2XBK4ic261122.shtml",
+        "time": "2026-11-22 10:05:46",
+        "summary": "11月21日，浙江省湖州市德清县下渚湖国家湿地公园举办冬捕、品鱼汤饭活动。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/22/2026112210042047355.jpg"
+      },
+      {
+        "title": "广西南宁：冬日繁花似锦",
+        "url": "https://photo.cctv.com/2026/11/22/PHOAlwFXQOGwATzQxoqvdnw9261122.shtml",
+        "time": "2026-11-22 10:08:29",
+        "summary": "初冬时节，广西南宁青秀山各色花木次第吐蕊、层层簇拥，繁花似锦。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/22/2026112210093245331.jpg"
+      },
+      {
+        "title": "北京：满目金黄 银杏进入最佳观赏期",
+        "url": "https://photo.cctv.com/2026/11/22/PHOA0CLWloGl19Va4Wctfmn6261122.shtml",
+        "time": "2026-11-22 10:51:51",
+        "summary": "近日，随着气温下降，北京中华世纪坛旁的银杏林进入最佳观赏期。",
+        "image": "https://p2.img.cctvpic.com/photoAlbum/photo/2026/11/22/PHOTRdlGBAUb0uT9I135jJzy261122_144x144.jpg"
+      },
+      {
+        "title": "三峡红叶景如画",
+        "url": "https://photo.cctv.com/2026/11/22/PHOA5NN7gB2O7SemAf1xUEMc261122.shtml",
+        "time": "2026-11-22 10:11:29",
+        "summary": "初冬时节，长江三峡湖北省秭归县峡江两岸红叶似火。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/22/2026112210101396007.jpg"
+      },
+      {
+        "title": "【新思想引领新征程】帮扶不断线 幸福不掉队",
+        "url": "https://news.cctv.com/2026/11/22/ARTIrTgw52FWMpCb8CqNLW1k261122.shtml",
+        "time": "2026-11-22 19:58:15",
+        "summary": "习近平总书记强调，要持续巩固拓展脱贫攻坚成果，把常态化帮扶纳入乡村振兴战略统筹实施，守牢不发生规模性返贫致贫底线。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/22/2026112219533399380.jpg"
+      }
+    ],
+    "generated": "2026-11-22 20:00"
   }
 }
