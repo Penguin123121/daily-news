@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-26",
+  "weekday": "周四",
+  "morning": {
+    "news": [
+      {
+        "title": "美军开始在日本冲绳常态部署新型战斗机",
+        "url": "https://news.cctv.com/2026/11/26/ARTIAQr2Syvzngp4pnegVwKl261125.shtml",
+        "time": "2026-11-26 05:04:01",
+        "summary": "据日本方面25日消息，美军已开始在其位于日本冲绳县的嘉手纳基地部署新型F-15EX战斗机，以替代老旧的F-15战斗机。这是美军首次在海外基地常态部署该型战斗机。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/25/2026112523162796883.jpg"
+      },
+      {
+        "title": "中荷外长共识声明",
+        "url": "https://news.cctv.com/2026/11/26/ARTIt27rznQquizxMHPl3ntg261126.shtml",
+        "time": "2026-11-26 04:53:19",
+        "summary": "2026年11月25日，中共中央政治局委员、外交部长王毅在北京同荷兰外交大臣贝伦德森举行会谈，就中荷关系等共同关心的问题深入交流。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/26/2026112604510994621.jpg"
+      },
+      {
+        "title": "研究新发现 十万年前华南地区存在多种古人类",
+        "url": "https://news.cctv.com/2026/11/26/ARTIkpC7yn1wsUWYPcRpNMNm261126.shtml",
+        "time": "2026-11-26 04:52:55",
+        "summary": "记者从中国科学院古脊椎动物与古人类研究所获悉，通过十余年野外发掘研究，该研究所联合广西文物保护与考古研究所等多家单位，在广西两处洞穴取得重要古人类化石研究新发现。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/26/2026112604521859371.jpg"
+      },
+      {
+        "title": "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
+        "url": "https://news.cctv.com/2026/11/26/ARTInHsIIly0azzdnd6pQ9a7261125.shtml",
+        "time": "2026-11-26 04:03:53",
+        "summary": "记者11月25日从财政部了解到，为规范和加强常态化帮扶资金管理，财政部、农业农村部等五部门近日印发《常态化帮扶资金绩效评价办法》。绩效评价的目标是提高资金使用效益，保障资金使用管理的安全性、规范性和有效性。",
+        "image": "https://p5.img.cctvpic.com/photoworkspace/2026/11/25/2026112523150240673.jpg"
+      },
+      {
+        "title": "自带“隐身术”！秦岭再添昆虫新物种",
+        "url": "https://news.cctv.com/2026/11/26/ARTIV8dozbq2F6Oog6vUaRc5261125.shtml",
+        "time": "2026-11-26 04:03:43",
+        "summary": "近日，陕西佛坪国家级自然保护区对外发布科研成果，确认发现全新昆虫物种——秦岭贝蕈甲。这一发现不仅填补了贝蕈甲属在秦岭中部的分布空白，也为秦岭生物多样性宝库再添有力佐证。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/25/2026112523124819103.jpg"
+      }
+    ],
+    "generated": "2026-11-26 08:00"
+  }
+}
