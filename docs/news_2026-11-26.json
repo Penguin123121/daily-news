@@ -40,5 +40,45 @@
       }
     ],
     "generated": "2026-11-26 08:00"
+  },
+  "evening": {
+    "news": [
+      {
+        "title": "老码头 赏鸥趣",
+        "url": "https://photo.cctv.com/2026/11/26/PHOAPl7CGcL7wTCxohy8DgQN261126.shtml",
+        "time": "2026-11-26 11:47:19",
+        "summary": "近期，成群海鸥飞抵天津，在滨海新区老码头附近盘旋飞翔、休憩觅食。",
+        "image": "https://p3.img.cctvpic.com/photoworkspace/2026/11/26/2026112611470897732.jpg"
+      },
+      {
+        "title": "甘肃天水：花牛苹果销售忙",
+        "url": "https://photo.cctv.com/2026/11/26/PHOAkSmldNRcXZDInLaIdRLl261126.shtml",
+        "time": "2026-11-26 12:02:48",
+        "summary": "初冬时节，甘肃省天水市麦积区南山花牛苹果基地进入销售季。",
+        "image": "https://p2.img.cctvpic.com/photoworkspace/2026/11/26/2026112612023815975.jpg"
+      },
+      {
+        "title": "浙江长兴：苗木重镇推进产业转型升级",
+        "url": "https://photo.cctv.com/2026/11/26/PHOAncodpwkmo4HRfbSEpapu261126.shtml",
+        "time": "2026-11-26 11:48:21",
+        "summary": "浙江省湖州市长兴县泗安镇是长三角地区重要的精品造型苗木产区。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/26/2026112611481345727.jpg"
+      },
+      {
+        "title": "云南瑞丽：沿边产业园加速发展",
+        "url": "https://photo.cctv.com/2026/11/26/PHOAw5UoQihKg11li3Ls6elw261126.shtml",
+        "time": "2026-11-26 11:47:51",
+        "summary": "沿边区位优势正持续转化为产业发展动能。",
+        "image": "https://p4.img.cctvpic.com/photoworkspace/2026/11/26/2026112611474490588.jpg"
+      },
+      {
+        "title": "我国发布《新一代通信网建设实施方案》",
+        "url": "https://news.cctv.com/2026/11/26/ARTIPZVBIAy4fVUXZzNAekOi261126.shtml",
+        "time": "2026-11-26 19:59:48",
+        "summary": "工业和信息化部、国家网信办、国家发展改革委近日印发《新一代通信网建设实施方案》。",
+        "image": "https://p1.img.cctvpic.com/photoworkspace/2026/11/26/2026112619582258204.jpg"
+      }
+    ],
+    "generated": "2026-11-26 20:00"
   }
 }
